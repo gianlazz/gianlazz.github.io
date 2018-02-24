@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/first-post.md
 - _posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
 hide_body: false
 fields:
