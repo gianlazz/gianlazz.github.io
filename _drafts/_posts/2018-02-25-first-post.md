@@ -5,7 +5,7 @@ author: Gian
 title: Kicking off 2018 with Git-Backed Static Site Generation + CMS
 date: 2018-02-23 00:00:00 +0000
 image: "/uploads/2018/02/24/cute-space-shuttle-launch-wallpaper.jpg"
-excerpt: And a convenient, lean future with the JAM-Stack
+excerpt: And a convenient, lean web presence with the JAM-Stack
 ---
 Here's some text
 
