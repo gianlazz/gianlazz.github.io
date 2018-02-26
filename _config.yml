@@ -42,7 +42,7 @@ github:             default
 
 # personal
 location:           Seattle, WA
-phone:              310-318-5555
+# phone:              310-318-5555
 email:              gian@lazz.tech
 
 # Gems
