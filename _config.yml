@@ -31,14 +31,14 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   gianlazz
 
 # Social
 analytics-id:       "default"
 twitter:            default
 facebook:           default
-instagram:          default
-github:             default
+instagram:          lazztech
+github:             gianlazz
 
 # personal
 location:           Seattle, WA
