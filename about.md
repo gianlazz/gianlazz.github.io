@@ -23,10 +23,18 @@ He’s a self-motivator who enjoys the challenge of “breaking down huge proble
 ### Content is Imortant
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  Content creation has given me a window to introduce less technical people to my interests and hobbys in a short suscinct package. It gives viewers an opportunity to see the roller coaster of challenge and excitment through the process of research, design and building out something new and technical without getting overwhelmed with the minutiae.
+  <br>
+  <br>
+  It's prompted many great conversations and creative thinking sessions with friends, family and peers that may not have happened otherwise.
   </p>
 </div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
+<!--
+<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" />
+-->
+<!--
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/ROhLJntF83c?ecver=1&amp;iv_load_policy=1&amp;showinfo=0&amp;autohide=2&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe><small style="display: block; text-align: center; margin: 0 auto; font-size:smaller;"></small></div>
+-->
+<!--
 On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+-->
