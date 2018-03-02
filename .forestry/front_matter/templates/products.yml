@@ -5,3 +5,8 @@ hide_body: false
 fields:
 - type: text
 - type: file
+- type: textarea
+  name: product_description
+  label: Product Description
+  config:
+    wysiwyg: true
