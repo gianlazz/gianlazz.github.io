@@ -5,7 +5,7 @@ author: Gian
 title: IOT ESP8266 Programmable Wifi Motion Sensor | $45
 date: 2018-02-23 00:00:00 +0000
 image: "/uploads/motionsensor.jpg"
-excerpt: Learn about microcontrollers, arduino programming and circuit soldering! 
+excerpt: Learn about microcontrollers, arduino programming, sensors, circuit soldering and how to tie it all together! 
 category: product
 ---
 

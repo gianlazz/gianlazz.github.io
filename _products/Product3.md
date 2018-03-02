@@ -2,10 +2,10 @@
 permalink: "/products/:title/"
 layout: listing
 author: Gian
-title: BeatLights Sound To Light | $80
+title: BeatLights Sound To Light | $85
 date: 2018-02-23 00:00:00 +0000
 image: "/uploads/beatlights.jpg"
-excerpt: Learn about microcontrollers, arduino programming and circuit soldering! 
+excerpt: Conveniently interface your own lights with your music easily and program the response dynamics with BeatLights.
 category: product
 ---
 

@@ -2,10 +2,10 @@
 permalink: "/products/:title/"
 layout: listing
 author: Gian
-title: Dual 26650 okr12 Varialble Voltage Regulate Boxmod | $80
+title: Dual 26650 okr12 Variable Voltage Regulate Boxmod | $80
 date: 2018-02-23 00:00:00 +0000
 image: "/uploads/ecig.jpg"
-excerpt: Learn about microcontrollers, arduino programming and circuit soldering! 
+excerpt: CNC machined enclosure, regulated circuitry, 3D printed battery slide and high quality fixtures.
 category: product
 ---
 
