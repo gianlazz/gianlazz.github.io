@@ -4,6 +4,8 @@ pages:
 hide_body: false
 fields:
 - type: text
+  label: Product Title
+  name: product_title
 - type: file
 - type: textarea
   name: product_description
