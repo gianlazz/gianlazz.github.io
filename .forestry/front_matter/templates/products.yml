@@ -7,6 +7,8 @@ fields:
   label: Product Title
   name: product_title
 - type: file
+  label: Product Image
+  name: product_image
 - type: textarea
   name: product_description
   label: Product Description
