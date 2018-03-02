@@ -15,6 +15,10 @@ defaults:
     layout: post
     author:
 
+collections:
+  products:
+    output: true
+
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown

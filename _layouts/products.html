@@ -49,8 +49,7 @@
 				-->
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.posts %}
-						{% if post.category == 'product' %}
+						{% for post in site.products %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
@@ -70,7 +69,6 @@
 								</header>
 
 							</article>
-							{% endif %}
 							{% endif %}
 						{% endfor %}
 

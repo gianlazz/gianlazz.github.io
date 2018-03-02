@@ -1,8 +1,8 @@
 ---
-permalink: "/blog/:title/"
+permalink: "/products/:title/"
 layout: post
 author: Gian
-title: Kicking off 2018 with Git-Backed Static Site Generation + CMS
+title: Product 1
 date: 2018-02-23 00:00:00 +0000
 image: "/uploads/2018/02/24/cute-space-shuttle-launch-wallpaper.jpg"
 excerpt: And a convenient, lean web presence with the JAM-Stack
