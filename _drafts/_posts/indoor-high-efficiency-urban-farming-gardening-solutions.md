@@ -9,7 +9,7 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 ---
 # Potential Benefits:
 
-#### Environmental Physical/Mental Health Benefits:
+### Environmental Physical/Mental Health Benefits:
 
 Air quality benefits studied by NASA
 
@@ -17,12 +17,12 @@ Air quality benefits studied by NASA
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
 
-#### Nutritional Benefits:
+### Nutritional Benefits:
 
 ### Financial Benefits:
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
-[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/]()
+[How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables")
 
 <br />
 
@@ -30,13 +30,13 @@ Air quality benefits studied by NASA
 
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
-#### Conventional Soil
+### Conventional Soil
 
-#### Hydroponic
+### Hydroponic
 
-#### Aeroponic
+### Aeroponic
 
-#### Aquaponic
+### Aquaponic
 
 # Crops
 
