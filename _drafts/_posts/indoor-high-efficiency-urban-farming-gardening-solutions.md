@@ -23,7 +23,7 @@ Air quality benefits studied by NASA
 
 [Hormetic Dietary Phytochemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals")
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/")
+[Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
 
 [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://www.youtube.com/watch?v=zz4YVJ4aRfg "Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More")
 
