@@ -48,7 +48,7 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 Here I've linked in some more relevant scientific publications and literature on this subject:
 
 * [Hormetic Dietary Phytochemicals  - PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals - PubMed")
-* [Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
+* [Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention  - PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
 * [SULFORAPHANE – WHY YOUR CELLS NEED CRUCIFEROUS VEGETABLES](http://www.organiclifestylemagazine.com/sulforaphane-why-your-cells-need-cruciferous-vegetables)
 
 ### Financial Benefits
