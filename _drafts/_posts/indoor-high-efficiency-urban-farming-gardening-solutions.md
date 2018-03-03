@@ -11,8 +11,11 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 ---
 
-### The Martian
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zjoiIEI0pOY?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Videos like this one that interviews an aerospace engineer about his high tech, off grid, DIY farming effort were part of the final push to get me to start thinking about where my food comes from and growing it myself seriously. Among other popular mentions are films like The Martian and Interstellar that depict the significance of agricultural engineering.
+
+I mean, who doesn't want to be more self sufficient, healthier, potentially make a profit, relieve some of your conscious about your environmental impact and live in a more enriched environment all at the same time?
 
 # Potential Benefits
 
@@ -40,8 +43,7 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 
 ### Financial Benefits
 
-<span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
-[How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables") - And other such articles talk about the possibilities of making a profit from dense, high yield micro greens by selling them at local farmers markets or restaurants.
+<span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> [How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables") - And other such articles talk about the possibilities of making a profit from dense, high yield micro greens by selling them at local farmers markets or restaurants.
 
 <br />
 
@@ -74,12 +76,7 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 
 ### Window Farming
 
-<span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span>
-Window Farming: A Do-It-Yourself Veggie Venture
-asdf
-asdf
-asdfasdf
-asdf
+<span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span> Window Farming: A Do-It-Yourself Veggie Venture asdf asdf asdfasdf asdf
 
 # IOT Hardware & Software
 
