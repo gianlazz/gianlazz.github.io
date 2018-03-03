@@ -48,6 +48,10 @@ Air quality benefits studied by NASA
 
 # Crops
 
+* Blue-green Algae
+* Micro greens
+* Fungi
+
 # Vertical vs. Horizontal
 
 [Window Farming: A Do-It-Yourself Veggie Venture](https://www.npr.org/templates/story/story.php?storyId=125504307)
