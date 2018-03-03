@@ -15,7 +15,7 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 Videos like this one that interviews an aerospace engineer about his high tech, off grid, DIY farming effort were part of the final push to get me to start thinking about where my food comes from and growing it myself seriously. Among other popular mentions are films like The Martian and Interstellar that depict the significance of agricultural engineering.
 
-I mean, who doesn't want to be more self sufficient, healthier, potentially make a profit, relieve some of your conscious about your environmental impact and live in a more enriched environment all at the same time?
+I mean, who doesn't want to be more self sufficient, healthier, potentially make a profit, relieve some of your conscience about your environmental impact and live in a more enriched environment all at the same time?
 
 # Potential Benefits
 
