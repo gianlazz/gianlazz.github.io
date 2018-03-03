@@ -9,9 +9,9 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 ---
 # Premise and Inspiration
 
-# Potential Benefits:
+# Potential Benefits
 
-### Environmental Physical/Mental Health Benefits:
+### Environmental Physical/Mental Health Benefits
 
 Air quality benefits studied by NASA
 
@@ -19,9 +19,9 @@ Air quality benefits studied by NASA
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
 
-### Nutritional Benefits:
+### Nutritional Benefits
 
-### Financial Benefits:
+### Financial Benefits
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
 [How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables") - And other such articles talk about the possibilities of making a profit from dense, high yield micro greens by selling them at local farmers markets or restaurants.
@@ -50,4 +50,4 @@ Air quality benefits studied by NASA
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
 
-# Products:
+# Products
