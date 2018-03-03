@@ -11,7 +11,7 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 ---
 
-<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zjoiIEI0pOY?ecver=1&amp;iv_load_policy=1&amp;showinfo=0&amp;autohide=2&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zjoiIEI0pOY?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
 Videos like this one that interviews an aerospace engineer about his high tech, off grid, DIY farming effort were part of the final push to get me to start thinking seriously about where my food comes from and growing it myself. Among other popular mentions are films like The Martian and Interstellar that depict the significance of agricultural engineering.
 
@@ -43,13 +43,11 @@ Air quality benefits studied by NASA
 
 Hormesis a favorable biological response to low exposures to toxins and other stressors.
 
-[Hormetic Dietary Phytochemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals")
+* [Hormetic Dietary Phytochemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals")
+* [Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
+* [SULFORAPHANE – WHY YOUR CELLS NEED CRUCIFEROUS VEGETABLES](http://www.organiclifestylemagazine.com/sulforaphane-why-your-cells-need-cruciferous-vegetables)
 
-[Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
-
-[Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://www.youtube.com/watch?v=zz4YVJ4aRfg "Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More")
-
-[SULFORAPHANE – WHY YOUR CELLS NEED CRUCIFEROUS VEGETABLES](http://www.organiclifestylemagazine.com/sulforaphane-why-your-cells-need-cruciferous-vegetables)
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zz4YVJ4aRfg?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
 ### Financial Benefits
 
