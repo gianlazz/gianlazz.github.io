@@ -11,6 +11,12 @@ excerpt: Exploring urban self sufficiency, health and potential financial Opport
 
 #### Environmental Physical/Mental Health Benefits:
 
+Air quality benefits studied by NASA
+
+[https://en.wikipedia.org/wiki/NASA_Clean_Air_Study](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study "https://en.wikipedia.org/wiki/NASA_Clean_Air_Study")
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
+
 #### Nutritional Benefits:
 
 #### Financial Benefits:
