@@ -23,9 +23,11 @@ Air quality benefits studied by NASA
 
 <p><span class="image left"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> </p>
 
-[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/]()  
+[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/]()
 
-<br>
+<br />
+
+<br />
 
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
