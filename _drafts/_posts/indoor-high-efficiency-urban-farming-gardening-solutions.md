@@ -46,6 +46,8 @@ Air quality benefits studied by NASA
 
 ### Aquaponic
 
+### Bioponics
+
 # Crops
 
 * Blue-green Algae
