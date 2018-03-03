@@ -9,6 +9,8 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 ---
 # Premise and Inspiration
 
+---
+
 ### The Martian
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/4b92b702-50bb-11e7-b896-7f2d3a4d650b_image_hires_134933.jpg" | absolute_url }}" alt="" /></span>
@@ -17,9 +19,9 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 <br />
 
----
-
 # Potential Benefits
+
+---
 
 ### Environmental Physical/Mental Health Benefits
 
@@ -46,8 +48,6 @@ Air quality benefits studied by NASA
 
 <br />
 
----
-
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
 ### Conventional Soil
@@ -60,15 +60,11 @@ Air quality benefits studied by NASA
 
 ### Bioponics
 
----
-
 # Crops
 
 * Blue-green Algae
 * Micro greens
 * Fungi
-
----
 
 # Vertical vs. Horizontal
 
@@ -81,12 +77,8 @@ asdf
 asdfasdf
 asdf
 
----
-
 # IOT Hardware & Software
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
-
----
 
 # Products
