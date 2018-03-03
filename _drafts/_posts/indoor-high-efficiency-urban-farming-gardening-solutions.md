@@ -66,8 +66,8 @@ Air quality benefits studied by NASA
 
 ### Window Farming
 
-[Window Farming: A Do-It-Yourself Veggie Venture](https://www.npr.org/templates/story/story.php?storyId=125504307)
 <span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span>
+Window Farming: A Do-It-Yourself Veggie Venture
 asdf
 asdf
 asdfasdf
