@@ -33,7 +33,7 @@ By the end of this post I'll have a conclusion on what the best options and cons
 
 ### Environmental Physical/Mental Health Benefits
 
-Air quality benefits of house plants have been studied by NASA and shown to have many benefits to those with and without breathing issues. They help purify the air 
+Air quality benefits of house plants have been studied by NASA and shown to have many benefits to those with and without breathing issues. They help purify the air along with creating a more oxygen rich enviroment which can have positive effects on focus and cognition.
 
 * [NASA Clean Air Study - Wikipedia](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study "https://en.wikipedia.org/wiki/NASA_Clean_Air_Study")
 * [Planting Healthier Indoor Air - Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
