@@ -65,8 +65,8 @@ Air quality benefits studied by NASA
 # Vertical vs. Horizontal
 
 [Window Farming: A Do-It-Yourself Veggie Venture](https://www.npr.org/templates/story/story.php?storyId=125504307)
+<span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span>
 
-![](/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg)
 
 # IOT Hardware & Software
 
