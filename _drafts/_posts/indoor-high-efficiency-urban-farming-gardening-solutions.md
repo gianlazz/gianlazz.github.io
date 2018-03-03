@@ -11,21 +11,14 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zjoiIEI0pOY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### The Martian
-
-<span class="image right"><img src="{{ "/uploads/2018/03/03/4b92b702-50bb-11e7-b896-7f2d3a4d650b_image_hires_134933.jpg" | absolute_url }}" alt="" /></span>
-
-<br />
-
-<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zjoiIEI0pOY?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Potential Benefits
 
 ---
 
-# Environmental Physical/Mental Health Benefits
+### Environmental Physical/Mental Health Benefits
 
 Air quality benefits studied by NASA
 
