@@ -66,6 +66,8 @@ Air quality benefits studied by NASA
 
 [Window Farming: A Do-It-Yourself Veggie Venture](https://www.npr.org/templates/story/story.php?storyId=125504307)
 
+![](/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg)
+
 # IOT Hardware & Software
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
