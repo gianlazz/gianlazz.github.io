@@ -71,6 +71,7 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 * Blue-green Algae
 * Micro greens
 * Fungi
+* Wheatgrass
 
 # Vertical vs. Horizontal
 
