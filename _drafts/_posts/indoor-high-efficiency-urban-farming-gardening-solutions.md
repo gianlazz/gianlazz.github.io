@@ -33,6 +33,8 @@ Air quality benefits studied by NASA
 
 ### Nutritional Benefits
 
+Hormesis a favorable biological response to low exposures to toxins and other stressors.
+
 [Hormetic Dietary Phytochemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals")
 
 [Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
