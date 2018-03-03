@@ -15,6 +15,10 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/4b92b702-50bb-11e7-b896-7f2d3a4d650b_image_hires_134933.jpg" | absolute_url }}" alt="" /></span>
 
+<iframe width="420" height="315"  
+src="[https://www.youtube.com/watch?v=zjoiIEI0pOY](https://www.youtube.com/watch?v=zjoiIEI0pOY "https://www.youtube.com/watch?v=zjoiIEI0pOY")">  
+</iframe>
+
 <br />
 
 <br />
