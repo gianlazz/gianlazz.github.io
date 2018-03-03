@@ -21,6 +21,10 @@ Air quality benefits studied by NASA
 
 #### Financial Benefits:
 
+Farm and sell "Micro Greens"
+
+[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/")
+
 ## Gardening Substrates; Conventional Soil vs. The Alternatives
 
 #### Conventional Soil
