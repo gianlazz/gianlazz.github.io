@@ -50,6 +50,8 @@ Air quality benefits studied by NASA
 
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
+---
+
 ### Conventional Soil
 
 ### Hydroponic
@@ -68,6 +70,8 @@ Air quality benefits studied by NASA
 
 # Vertical vs. Horizontal
 
+---
+
 ### Window Farming
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span>
@@ -79,6 +83,10 @@ asdf
 
 # IOT Hardware & Software
 
+---
+
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
 
 # Products
+
+---
