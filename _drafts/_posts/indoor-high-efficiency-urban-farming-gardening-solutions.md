@@ -43,11 +43,11 @@ Air quality benefits studied by NASA
 
 Hormesis a favorable biological response to low exposures to toxins and other stressors.
 
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zz4YVJ4aRfg?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
+
 * [Hormetic Dietary Phytochemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "Hormetic Dietary Phytochemicals")
 * [Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "Benefits and Risks of the Hormetic Effects of Dietary Isothiocyanates on Cancer Prevention")
 * [SULFORAPHANE – WHY YOUR CELLS NEED CRUCIFEROUS VEGETABLES](http://www.organiclifestylemagazine.com/sulforaphane-why-your-cells-need-cruciferous-vegetables)
-
-<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zz4YVJ4aRfg?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
 ### Financial Benefits
 
