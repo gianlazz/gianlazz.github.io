@@ -17,9 +17,11 @@ Videos like this one that interviews an aerospace engineer about his high tech, 
 
 I mean, who doesn't want to be more self sufficient, healthier, potentially make a profit, relieve some of your conscience about your environmental impact and live in a more enriched environment all at the same time?
 
-And lets set aside personal gain for a moment and consider the current state of affairs globally. Our population is rapidly climbing, with that we have more waste, environmental impact and demand for food than ever and that's only going to continue to scale.
+Lets also set aside personal gain for a moment and consider the current state of affairs globally. Our population is rapidly climbing, with that we have more waste, environmental impact and demand for food than ever and that's only going to continue to scale.
 
 What can we as individuals or communities do about this?
+
+Potentially a lot, thankfully.
 
 # Potential Benefits
 
