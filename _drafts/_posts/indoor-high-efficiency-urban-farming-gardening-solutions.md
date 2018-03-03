@@ -18,6 +18,8 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 <iframe width="420" height="315"  
 src="https://www.youtube.com/watch?v=zjoiIEI0pOY"></iframe>
 
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/-zjoiIEI0pOY?ecver=1&amp;iv_load_policy=1&amp;showinfo=0&amp;autohide=2&amp;color=red&amp;width=560&amp;width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
+
 <br />
 
 <br />
