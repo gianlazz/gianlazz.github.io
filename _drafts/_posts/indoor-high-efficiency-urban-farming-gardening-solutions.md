@@ -41,4 +41,6 @@ Farm and sell "Micro Greens"
 
 ## IOT Hardware & Software
 
+[https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
+
 ## Products:
