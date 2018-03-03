@@ -21,7 +21,7 @@ Lets also set aside personal gain for a moment and consider the current state of
 
 What can we as individuals or communities do about this?
 
-Potentially a lot, thankfully.
+Potentially a lot, thankfully. I mean lets look at the other more positive side of the coin; with all of this rapid growth and development we have more resources and opportunities to take action on problems like these than ever.
 
 # Potential Benefits
 
