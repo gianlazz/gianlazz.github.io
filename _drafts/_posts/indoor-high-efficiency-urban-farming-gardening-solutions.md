@@ -7,7 +7,7 @@ date: 2018-03-02 00:00:00 +0000
 image: "/uploads/2018/03/02/581a3fa0362ca4892e8b64fe-1536-721.jpg"
 excerpt: Exploring urban self sufficiency, health and potential financial opportunities
 ---
-## Premise and Inspiration
+# Premise and Inspiration
 
 ---
 
@@ -19,11 +19,11 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 <br />
 
-## Potential Benefits
+# Potential Benefits
 
 ---
 
-### Environmental Physical/Mental Health Benefits
+# Environmental Physical/Mental Health Benefits
 
 Air quality benefits studied by NASA
 
@@ -52,7 +52,7 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 
 <br />
 
-## Gardening Substrates; Conventional Soil vs. The Alternatives
+# Gardening Substrates; Conventional Soil vs. The Alternatives
 
 ---
 
@@ -66,13 +66,13 @@ Hormesis a favorable biological response to low exposures to toxins and other st
 
 ### Bioponics
 
-## Crops
+# Crops
 
 * Blue-green Algae
 * Micro greens
 * Fungi
 
-## Vertical vs. Horizontal
+# Vertical vs. Horizontal
 
 ---
 
@@ -85,12 +85,12 @@ asdf
 asdfasdf
 asdf
 
-## IOT Hardware & Software
+# IOT Hardware & Software
 
 ---
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
 
-## Products
+# Products
 
 ---
