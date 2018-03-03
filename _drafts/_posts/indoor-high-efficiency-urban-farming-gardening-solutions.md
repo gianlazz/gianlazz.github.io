@@ -21,6 +21,10 @@ Air quality benefits studied by NASA
 
 ### Nutritional Benefits
 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2635914/")
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273949/")
+
 ### Financial Benefits
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
