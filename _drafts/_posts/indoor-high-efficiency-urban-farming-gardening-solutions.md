@@ -40,6 +40,7 @@ Air quality benefits of house plants have been studied by NASA and shown to have
 * [https://www.scientificamerican.com/article/houseplants-make-you-smarter/](https://www.scientificamerican.com/article/houseplants-make-you-smarter/ "https://www.scientificamerican.com/article/houseplants-make-you-smarter/")
 * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760412/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760412/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760412/")
 * [https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1](https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1 "https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1")
+* [http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf](http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf "http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf")
 
 ### Nutritional Benefits
 
