@@ -39,6 +39,8 @@ Air quality benefits studied by NASA
 
 [Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More](https://www.youtube.com/watch?v=zz4YVJ4aRfg "Sulforaphane and Its Effects on Cancer, Mortality, Aging, Brain and Behavior, Heart Disease & More")
 
+[SULFORAPHANE – WHY YOUR CELLS NEED CRUCIFEROUS VEGETABLES](http://www.organiclifestylemagazine.com/sulforaphane-why-your-cells-need-cruciferous-vegetables)
+
 ### Financial Benefits
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
