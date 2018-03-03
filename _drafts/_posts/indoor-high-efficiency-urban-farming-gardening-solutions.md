@@ -35,8 +35,8 @@ By the end of this post I'll have a conclusion on what the best options and cons
 
 Air quality benefits studied by NASA
 
-* [https://en.wikipedia.org/wiki/NASA_Clean_Air_Study](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study "https://en.wikipedia.org/wiki/NASA_Clean_Air_Study")
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
+* [NASA Clean Air Study - Wikipedia](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study "https://en.wikipedia.org/wiki/NASA_Clean_Air_Study")
+* [Planting Healthier Indoor Air - Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
 
 ### Nutritional Benefits
 
