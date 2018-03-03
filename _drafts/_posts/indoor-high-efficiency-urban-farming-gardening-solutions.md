@@ -35,6 +35,8 @@ Farm and sell "Micro Greens"
 
 #### Aquaponic
 
+# Crops
+
 ## Vertical vs. Horizontal
 
 [Window Farming: A Do-It-Yourself Veggie Venture](https://www.npr.org/templates/story/story.php?storyId=125504307)
