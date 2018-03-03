@@ -17,6 +17,8 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 <br />
 
+---
+
 # Potential Benefits
 
 ### Environmental Physical/Mental Health Benefits
@@ -44,6 +46,8 @@ Air quality benefits studied by NASA
 
 <br />
 
+---
+
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
 ### Conventional Soil
@@ -56,11 +60,15 @@ Air quality benefits studied by NASA
 
 ### Bioponics
 
+---
+
 # Crops
 
 * Blue-green Algae
 * Micro greens
 * Fungi
+
+---
 
 # Vertical vs. Horizontal
 
@@ -73,8 +81,12 @@ asdf
 asdfasdf
 asdf
 
+---
+
 # IOT Hardware & Software
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
+
+---
 
 # Products
