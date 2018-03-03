@@ -21,7 +21,7 @@ Air quality benefits studied by NASA
 
 #### Financial Benefits:
 
-<p><span class="image left"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> </p> <h4>Financial Benefits: </h4>[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/]()
+<p><span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> </p> <h4>Financial Benefits: </h4>[https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/]()
 
 <br />
 
