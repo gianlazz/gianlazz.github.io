@@ -13,6 +13,8 @@ excerpt: Exploring urban self sufficiency, health and potential financial opport
 
 <div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zjoiIEI0pOY?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
+[https://www.youtube.com/channel/UCd8t8Dq8oZeAjGDx_87azBw/featured](https://www.youtube.com/channel/UCd8t8Dq8oZeAjGDx_87azBw/featured "https://www.youtube.com/channel/UCd8t8Dq8oZeAjGDx_87azBw/featured")
+
 Videos like this one that interviews an aerospace engineer about his high tech, off grid, DIY farming effort were part of the final push to get me to start thinking seriously about where my food comes from and growing it myself. Among other popular mentions are films like The Martian and Interstellar that depict the significance of agricultural engineering.
 
 I mean, who doesn't want to be more self sufficient, healthier, potentially make a profit, relieve some of your conscience about your environmental impact and live in a more enriched environment all at the same time?
