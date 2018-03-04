@@ -76,6 +76,10 @@ Here I've linked in some more relevant scientific publications and literature on
 
 ### Aeroponic
 
+<span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
+
+Aeroponic
+
 ### Aquaponic
 
 ### Bioponics
