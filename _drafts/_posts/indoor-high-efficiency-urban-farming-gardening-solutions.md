@@ -85,6 +85,10 @@ The main advantage of conventional soil gardening is the accessibility and low c
 
 ### Hydroponic
 
+Hydroponic setups have many advantages over soil, most notably being that they take much less water and for that water can potentially produce much higher yeild.
+
+Below is a video of one type of Hydroponic setup called the "Kratky method." In that video the vlogger illustrates a way to make your own hydroponic setup very cheaply. It also explaines hydropinics pretty nicely with illustrations and comparisons.
+
 <div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/5z0NaYpVHMs?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
 ### Aeroponic
