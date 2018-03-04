@@ -50,8 +50,8 @@ Air quality benefits of house plants have been studied by NASA and shown to have
 
 * [NASA Clean Air Study - Wikipedia](https://en.wikipedia.org/wiki/NASA_Clean_Air_Study "https://en.wikipedia.org/wiki/NASA_Clean_Air_Study")
 * [Planting Healthier Indoor Air - Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230460/")
-* [https://www.scientificamerican.com/article/houseplants-make-you-smarter/](https://www.scientificamerican.com/article/houseplants-make-you-smarter/ "https://www.scientificamerican.com/article/houseplants-make-you-smarter/")
 * [Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being? - Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760412/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760412/")
+* [House Plants Make You Smarter - Scientific American](https://www.scientificamerican.com/article/houseplants-make-you-smarter/ "https://www.scientificamerican.com/article/houseplants-make-you-smarter/")
 * [https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1](https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1 "https://ecommons.cornell.edu/bitstream/handle/1813/7914/dissertation%20july7.2007.pdf?sequence=1")
 * [http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf](http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf "http://clok.uclan.ac.uk/1630/1/smith_tucker_pitt_1630.pdf")
 
