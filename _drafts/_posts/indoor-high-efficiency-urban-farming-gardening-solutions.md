@@ -81,6 +81,8 @@ Here I've linked in some more relevant scientific publications and literature on
 
 ### Conventional Soil
 
+The main advantage of conventional soil gardening is the accessibility and low cost of ready made products and solutions. It does however have the disadvantages of having potentially much lower yield and being much more mess than the options below.
+
 ### Hydroponic
 
 <div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/5z0NaYpVHMs?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
@@ -89,7 +91,7 @@ Here I've linked in some more relevant scientific publications and literature on
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
 
-Aeroponic
+Aeroponic is very appealing as it can be the most water conservative even more than hydroponic setups as it simply mists the plants roots with nutrient rich water as apposed to soaking them. It also is typically much higher yield than conventional soil.
 
 ### Aquaponic
 
