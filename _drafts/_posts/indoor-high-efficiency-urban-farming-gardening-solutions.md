@@ -25,7 +25,18 @@ What can we as individuals or communities do about this?
 
 Potentially a lot, thankfully. I mean lets look at the other more positive side of the coin; with all of this rapid growth and development we have more resources and opportunities to take action on problems like these than ever. With resources like the wealth of information at are fingertips through video, content and social platforms to learn about all of the angles of a problem like this. Then being able to quickly and succinctly get at least a cursory and actionable understanding of how to best solve at least part of this problem in an application that suites your own needs.
 
+# Objective
+
+---
+
 My intention in this write up is to consolidate as much practical information on the current readily available options for how I can over the course of a weekend to start producing some of my own food conveniently in my urban environment. Also I'll be looking at this from a "maker's" and engineering perspective to see where I may potentially be able to make what's already out there better.
+
+Here's what I eventually want to work towards in a indoor gardening setup:
+
+* Aesthetically pleasing
+  * I don't want harsh florescent lights
+  * I want a minimalist motif that doesn't clash with the clean styling of my space
+  * I'm okay with some wires showing and it looking technical but I don't want it to look too hacked together
 
 By the end of this post I'll have a conclusion on what the best options and considerations I'll be taking action are considering my research so that you all can TLDR down to the bottom if you don't have time to read this all.
 
