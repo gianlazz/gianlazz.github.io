@@ -2,7 +2,7 @@
 permalink: "/blog/:title/"
 layout: post
 author: Gian Lazzarini
-title: Exploring Urban High Efficiency Gardening/Farming Options
+title: Exploring Urban High Efficiency Gardening/Farming
 date: 2018-03-02 00:00:00 +0000
 image: "/uploads/2018/03/02/581a3fa0362ca4892e8b64fe-1536-721.jpg"
 excerpt: Exploring urban self sufficiency, health and potential financial opportunities
