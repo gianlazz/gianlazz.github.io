@@ -105,6 +105,8 @@ Aeroponic is very appealing as it can be the most water conservative even more t
 
 Aeropoinic setups have been studied by NASA as well.
 
+https://en.wikipedia.org/wiki/Aeroponics
+
 ### Aquaponic
 
 ### Bioponics
