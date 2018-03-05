@@ -119,6 +119,10 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 
 ### Bioponics
 
+<span class="image right"><img src="{{ "/uploads/2018/03/05/Portable_fish_farm_at_growing_power.jpg" | absolute_url }}" alt="" /></span>
+
+Bioponics then take the whole aquaponic concept and self sustaining ecosystem to even another level.
+
 # Crops
 
 * Blue-green Algae
