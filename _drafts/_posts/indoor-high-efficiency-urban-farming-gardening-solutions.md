@@ -121,15 +121,11 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 
 ---
 
-[https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
-
-NODE-RED
-
-ESP8266
-
-ESP32
-
-Raspberry Pi Zero W
+* [DIY hydroponics system powered by UniPi](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
+* NODE-RED
+* ESP8266
+* ESP32
+* Raspberry Pi Zero W
 
 # Conclusion
 
