@@ -109,6 +109,8 @@ https://en.wikipedia.org/wiki/Aeroponics
 
 ### Aquaponic
 
+<span class="image right"><img src="{{ "/uploads/2018/03/05/Portable_fish_farm_at_growing_power.jpg" | absolute_url }}" alt="" /></span>
+
 ### Bioponics
 
 # Crops
