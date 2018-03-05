@@ -29,7 +29,7 @@ Potentially a lot, thankfully. I mean lets look at the other more positive side 
 
 ---
 
-My intention in this write up is to consolidate as much practical information on the current readily available options for how I can over the course of a weekend to start producing some of my own food conveniently in my urban environment. Also I'll be looking at this from a "maker's" and engineering perspective to see where I may potentially be able to make what's already out there better.
+My intention in this write up is to consolidate as much practical information on the current readily available options for how I can over the course of a weekend to start producing some of my own food conveniently in my urban environment. Also I'll be looking at this from a Maker's and engineering perspective to see where I may potentially be able to make what's already out there better.
 
 Here's what I eventually want to work towards in a indoor gardening setup:
 
