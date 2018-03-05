@@ -69,6 +69,8 @@ Dr Rhonda Patrick is also a wonderful resource for information on the benefits o
 
 <div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/zz4YVJ4aRfg?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
 
+<br />
+
 ### Financial Benefits
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> [How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables") - And other such articles talk about the possibilities of making a profit from dense, high yield micro greens by selling them at local farmers markets or restaurants.
