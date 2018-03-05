@@ -41,6 +41,9 @@ Here's what I eventually want to work towards in a indoor gardening setup:
   * I don't want it to be overly heavy or difficult to move
   * Needs to be easy to tend to and clean the components
   * Anything that needs power should be consolidated all to one outlet if possible
+* Maximum possible physical vegetation and nutritional value given the space
+* Employ IOT tech to facilitate monitoring of the plants and automating things like lighting
+  * Should allow room for expandability
 * 
 
 By the end of this post I'll have a conclusion on what the best options and considerations I'll be taking action are considering my research so that you all can TLDR down to the bottom if you don't have time to read this all.
