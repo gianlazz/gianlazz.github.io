@@ -139,6 +139,6 @@ Ultimately my objective in this post was to see how much I could realistically l
 
 I've pretty well concluded that at least for me and now that the more complex aeroponic, aquaponic, or even more exotic bioponic systems are really exciting they're probably out of the scope of time and energy commitment I'm looking to make. So from that it looks like the most convenient and accessible options are conventional soil or Kratky style hydroponic.
 
-![](/uploads/2018/03/05/20180304_184128.jpg)
+<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184128.jpg" | absolute_url }}" alt="" /></span>
 
-![](/uploads/2018/03/05/20180304_184135.jpg)
+<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
