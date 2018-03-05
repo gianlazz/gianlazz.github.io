@@ -144,7 +144,7 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 * Control over timing of the lights
 * Webcam monitoring to check up on plants and for timelapses
 * Accent lighting
-* Web interface
+* Web interface (Ideally where I could make the stats public)
 
 # Conclusion
 
