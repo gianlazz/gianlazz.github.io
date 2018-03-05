@@ -111,6 +111,8 @@ https://en.wikipedia.org/wiki/Aeroponics
 
 <span class="image right"><img src="{{ "/uploads/2018/03/05/Portable_fish_farm_at_growing_power.jpg" | absolute_url }}" alt="" /></span>
 
+Aquapoinics take the concept of hydronics to the next level by creating a self contained ecosystem where fish water is used as the nutrient rich water for the hydropinic plants, then obsorb the nutrients and filter out the waste from the water which is then recycled back to the fish. This means that you're able to grow a high yeild efficient crop in a relitively small space while having a source of nutrient water and also farming fish which can then be eaten.
+
 ### Bioponics
 
 # Crops
