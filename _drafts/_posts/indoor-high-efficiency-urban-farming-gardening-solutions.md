@@ -138,3 +138,7 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 Ultimately my objective in this post was to see how much I could realistically learn about all of the different indoor gardening options that might work for me. I saw options that ranged from DIY projects with water bottles or plastic cups that cost about $20 or less all the way up to really complex high end hydro or aquaponic solutions ranging in the thousands.
 
 I've pretty well concluded that at least for me and now that the more complex aeroponic, aquaponic, or even more exotic bioponic systems are really exciting they're probably out of the scope of time and energy commitment I'm looking to make. So from that it looks like the most convenient and accessible options are conventional soil or Kratky style hydroponic.
+
+![](/uploads/2018/03/05/20180304_184128.jpg)
+
+![](/uploads/2018/03/05/20180304_184135.jpg)
