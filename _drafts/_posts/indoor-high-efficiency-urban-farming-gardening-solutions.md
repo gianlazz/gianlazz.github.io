@@ -138,10 +138,6 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 
 [https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
 
-# Products
-
----
-
 # Conclusion
 
 ---
