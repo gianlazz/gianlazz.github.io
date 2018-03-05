@@ -77,7 +77,6 @@ The "Real Life Martian" Youtuber mentioned at the top of this post also makes us
 
 <br />
 
-<br />
 
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
