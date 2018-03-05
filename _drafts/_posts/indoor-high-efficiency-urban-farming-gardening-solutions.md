@@ -113,6 +113,10 @@ https://en.wikipedia.org/wiki/Aeroponics
 
 Aquapoinics take the concept of hydronics to the next level by creating a self contained ecosystem where fish water is used as the nutrient rich water for the hydropinic plants, then obsorb the nutrients and filter out the waste from the water which is then recycled back to the fish. This means that you're able to grow a high yeild efficient crop in a relitively small space while having a source of nutrient water and also farming fish which can then be eaten.
 
+This is a wonderful option and while there are small scale products out there that make use of gold fish or beta fish the plant production isn't really that high for those kind of consumer products. Especially when you look at the cost and extra upkeep, it really leaves them at more of a novelty.
+
+So with that in mind Aquaponics look like they have a much steeper barrier to entry and learning curve as you also have to tend to the aquatic life.
+
 ### Bioponics
 
 # Crops
