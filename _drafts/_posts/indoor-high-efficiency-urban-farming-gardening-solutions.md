@@ -73,6 +73,8 @@ Dr Rhonda Patrick is also a wonderful resource for information on the benefits o
 
 <span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span> [How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables](https://www.thepennyhoarder.com/make-money/side-gigs/microgreens-side-hustle/ "How You Could Easily Make an Extra $400/Month Selling Tiny Vegetables") - And other such articles talk about the possibilities of making a profit from dense, high yield micro greens by selling them at local farmers markets or restaurants.
 
+The "Real Life Martian" Youtuber mentioned at the top of this post also makes use of the financial potential of microgreens to help mitigate the expense of his setup.
+
 <br />
 
 <br />
