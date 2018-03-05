@@ -99,7 +99,7 @@ The "Kratky Method" has the advantage of not requiring an aquatic air pump to ae
 
 ### Aeroponic
 
-<span class="image right"><img src="{{ "/uploads/2018/03/03/microgreens-cropped.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/uploads/2018/03/05/True-aeroponics.jpg" | absolute_url }}" alt="" /></span>
 
 Aeroponic is very appealing as it can be the most water conservative even more than hydroponic setups as it simply mists the plants roots with nutrient rich water as apposed to soaking them. It also is typically much higher yield than conventional soil.
 
