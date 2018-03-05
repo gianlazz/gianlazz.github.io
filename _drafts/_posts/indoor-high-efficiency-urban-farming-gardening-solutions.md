@@ -135,6 +135,16 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 * ESP32
 * Raspberry Pi Zero W
 
+### Requirements
+
+* Water level monitoring to alert if it gets low
+* Ambient humidity
+* Ambient temperature
+* PH balance of the water
+* Control over timing of the lights
+* Webcam monitoring to check up on plants and for timelapses
+* Accent lighting
+
 # Conclusion
 
 ---
