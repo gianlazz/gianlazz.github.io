@@ -149,4 +149,6 @@ Over the course of writing and researching this subject I spent hours research p
 
 Most of the ones that I liked the look of, based on the yield, energy commitment, maintenance and reviews typically came in at many hundreds of dollars.
 
+For a period I thought the Ikea Vaxer Hydroponic setup in the cover image of this post might've been the perfect option though it's only available in the UK and from what I've read doesn't necessarily perform that well.
+
 I've pretty well concluded that at least for me and now that the more complex aeroponic or aquaponic are really exciting they're probably out of the scope of time and energy commitment I'm looking to make. So from that it looks like the most convenient and accessible options are conventional soil or Kratky style hydroponic.
