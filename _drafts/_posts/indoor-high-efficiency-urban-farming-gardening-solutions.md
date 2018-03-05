@@ -117,14 +117,6 @@ This is a wonderful option and while there are small scale products out there th
 
 So with that in mind Aquaponics look like they have a much steeper barrier to entry and learning curve as you also have to tend to the aquatic life.
 
-# Vertical vs. Horizontal
-
----
-
-### Window Farming
-
-<span class="image right"><img src="{{ "/uploads/2018/03/03/WindowFarm_@_Kiasma_.jpg" | absolute_url }}" alt="" /></span> Window Farming: A Do-It-Yourself Veggie Venture asdf asdf asdfasdf asdf
-
 # IOT Hardware & Software
 
 ---
