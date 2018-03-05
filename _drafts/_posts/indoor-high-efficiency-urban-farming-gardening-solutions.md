@@ -117,13 +117,6 @@ This is a wonderful option and while there are small scale products out there th
 
 So with that in mind Aquaponics look like they have a much steeper barrier to entry and learning curve as you also have to tend to the aquatic life.
 
-# Crops
-
-* Blue-green Algae
-* Micro greens
-* Fungi
-* Wheatgrass
-
 # Vertical vs. Horizontal
 
 ---
