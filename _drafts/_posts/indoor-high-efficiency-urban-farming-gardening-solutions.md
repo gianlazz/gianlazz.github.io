@@ -77,7 +77,6 @@ The "Real Life Martian" Youtuber mentioned at the top of this post also makes us
 
 <br />
 
-
 # Gardening Substrates; Conventional Soil vs. The Alternatives
 
 ---
@@ -106,7 +105,7 @@ Aeroponic is very appealing as it can be the most water conservative even more t
 
 Aeropoinic setups have been studied by NASA as well.
 
-https://en.wikipedia.org/wiki/Aeroponics
+[Aeroponics - Wikipedia](https://en.wikipedia.org/wiki/Aeroponics "Aeroponics - Wikipedia")
 
 ### Aquaponic
 
