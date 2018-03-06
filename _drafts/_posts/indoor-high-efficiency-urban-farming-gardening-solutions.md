@@ -166,11 +166,13 @@ For a period I thought the Ikea Vaxer Hydroponic setup in the cover image of thi
 
 I've pretty well concluded that at least for me and now that the more complex aeroponic or aquaponic are really exciting they're probably out of the scope of time and energy commitment I'm looking to make. So from that it looks like the most convenient and accessible options are conventional soil or Kratky style hydroponic.
 
-### TLDR
+## TLDR
+
+<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184128.jpg" | absolute_url }}" alt="" /></span>
 
 So to sum it up ultimately I'll be going with the super cheap and simple hydroponic "Kratky Method" that requires very little maintenance or setup as it doesn't require any messy soil or pumps. I'm going to shoot for growing a head of lettuce as that's supposed to be one of the most straight forward crops to grow with this technique. I'll be using a 3 inch hydroponic net cup, mason jar, clay hydroponic grow media and some nutrient solution for the water. I'll experiment with growing it in the window and using some super bright LED light strips I already have.
 
-<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184128.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
 
 From there eventually I would like to graduate to growing multiple heads with 3 - 6 heads of lettuce using a plastic storage bin with wholes cut in the top. Ideally from there it'd be nice to set it up in something like the Ikea Green House cabinet so I could display the plants and neatly tuck away the lights.
 
@@ -179,5 +181,3 @@ From there I'd also like to give Micro greens a try and would see myself setting
 As far as electronics go I think it would probably be reasonable to simply go with a light timer at minimum and maybe get to monitoring water level too.
 
 In the end really the most important thing is simply to get started.
-
-<span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
