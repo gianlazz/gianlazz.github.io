@@ -133,7 +133,7 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 
 The link above proposes some useful ideas on how to setup an IOT gardening project.
 
-For my own purposes I imagine I'd like to try out NODE-RED a Node.js IOT framework that's supposed to make the whole process quick and easy and probably have it all managed by a Raspberry Pi Zero W or possibly an ESP8266 based NodeMCU
+For my own purposes I imagine I'd like to try out NODE-RED a Node.js IOT framework that's supposed to make the whole process quick and easy and probably have it all managed by a Raspberry Pi Zero W or possibly an ESP8266 based NodeMCU.
 
 In this video below the Vlogger mentioned in the beginning goes over the ESP8266 IOT Arduino system he's implemented, including all of the sensors, automation and their purposes.
 
