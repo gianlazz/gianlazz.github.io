@@ -129,11 +129,17 @@ So with that in mind Aquaponics look like they have a much steeper barrier to en
 
 ---
 
-* [DIY hydroponics system powered by UniPi](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
-* NODE-RED
-* ESP8266
-* ESP32
-* Raspberry Pi Zero W
+[DIY hydroponics system powered by UniPi](https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653 "https://medium.com/cloud4rpi/unipi-and-cloud4rpi-setting-up-1663eebd0653")
+
+The link above proposes some useful ideas on how to setup an IOT gardening project.
+
+For my own purposes I imagine I'd like to try out NODE-RED a Node.js IOT framework that's supposed to make the whole process quick and easy and probably have it all managed by a Raspberry Pi Zero W or possibly an ESP8266 based NodeMCU
+
+In this video below the Vlogger mentioned in the beginning goes over the ESP8266 IOT Arduino system he's implemented, including all of the sensors, automation and their purposes.
+
+<div style='position:relative;padding-bottom:56.25%;padding-top:25px;height:0;'><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"></div><iframe allowFullScreen='allowFullScreen' src="https://www.youtube.com/embed/VXIDcyjpvsw?ecver=1&iv_load_policy=1&showinfo=0&autohide=2&color=red&width=560&width=560" width="560" height="315" allowtransparency="true" style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder="0"></iframe></div>
+
+I've outlined some details on what I would ultimately like to work towards in my personal setup. Obviously like all aspects of this type of project you can take it as far as you like...
 
 ### Requirements
 
@@ -156,9 +162,9 @@ Ultimately my objective in this post was to see how much I could realistically l
 
 <span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
 
-Over the course of writing and researching this subject I spent hours scouring products and solutions online. I found countless options, techniques and potential routes to take. One thing that I found in common though with anything that looked remotely high yield or aesthetically pleasing, (let alone both) came at quite a price premium. Also the amount of options really left me as a newcomer initially very confused and overwhelmed with all of the options. 
+Over the course of writing and researching this subject I spent hours scouring products and solutions online. I found countless options, techniques and potential routes to take. One thing that I found in common though with anything that looked remotely high yield or aesthetically pleasing, (let alone both) came at quite a price premium. Also the amount of options really left me as a newcomer initially very confused and overwhelmed with all of the options.
 
- Most of the ones that I liked the look of, based on the yield, energy commitment, maintenance and reviews typically came in at many hundreds of dollars.
+Most of the ones that I liked the look of, based on the yield, energy commitment, maintenance and reviews typically came in at many hundreds of dollars.
 
 For a period I thought the Ikea Vaxer Hydroponic setup in the cover image of this post might've been the perfect option though it's only available in the UK and from what I've read doesn't necessarily perform that well.
 
