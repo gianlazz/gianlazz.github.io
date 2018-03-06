@@ -141,7 +141,7 @@ In this video below the Vlogger mentioned in the beginning goes over the ESP8266
 
 I've outlined some details on what I would ultimately like to work towards in my personal setup. Obviously like all aspects of this type of project you can take it as far as you like...
 
-### Requirements
+### Potential Requirements
 
 * Water level monitoring to alert if it gets low
 * Ambient humidity
