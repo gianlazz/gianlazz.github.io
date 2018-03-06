@@ -158,7 +158,7 @@ I've outlined some details on what I would ultimately like to work towards in my
 
 <span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184128.jpg" | absolute_url }}" alt="" /></span>
 
-Ultimately my objective in this post was to see how much I could realistically learn about all of the different indoor gardening options that might work for me. I saw options that ranged from DIY projects with water bottles or plastic cups that cost about $20 or less all the way up to really complex high end hydro or aquaponic solutions ranging in the thousands.
+Ultimately my objective in this post was, over the course of just a few days, to see how much I could realistically learn about all of the different indoor gardening options that might work for me. I saw options that ranged from DIY projects with water bottles or plastic cups that cost about $20 or less all the way up to really complex high end hydro or aquaponic solutions ranging in the thousands.
 
 <span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
 
