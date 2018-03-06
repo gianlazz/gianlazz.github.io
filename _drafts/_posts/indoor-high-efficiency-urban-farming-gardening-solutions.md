@@ -176,9 +176,9 @@ So to sum it up ultimately I'll be going with the super cheap and simple hydropo
 
 From there eventually I would like to graduate to growing multiple heads with 3 - 6 heads of lettuce using a plastic storage bin with wholes cut in the top. Ideally from there it'd be nice to set it up in something like the Ikea Green House cabinet so I could display the plants and neatly tuck away the lights.
 
-From there I'd also like to give Micro greens a try and would see myself setting ups designated shelf just for them in the cabinet.
-
 <span class="image left"><img src="{{ "/uploads/2018/03/06/43bfa1c9c2a05f783547544b3cef7afb.jpg" | absolute_url }}" alt="" /></span>
+
+From there I'd also like to give Micro greens a try and would see myself setting ups designated shelf just for them in the cabinet.
 
 As far as electronics go I think it would probably be reasonable to simply go with a light timer at minimum and maybe get to monitoring water level too.
 
