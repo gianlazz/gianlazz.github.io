@@ -162,7 +162,7 @@ Ultimately my objective in this post was, over the course of just a few days, to
 
 <span class="image right"><img src="{{ "/uploads/2018/03/05/20180304_184135.jpg" | absolute_url }}" alt="" /></span>
 
-Over the course of writing and researching this subject I spent hours scouring products and solutions online. I found countless options, techniques and potential routes to take. One thing that I found in common though with anything that looked remotely high yield or aesthetically pleasing, (let alone both) came at quite a price premium. Also the amount of options really left me as a newcomer initially very confused and overwhelmed with all of the options.
+Through writing and researching this subject I spent hours scouring products and solutions online. I found countless options, techniques and potential routes to take. One thing that I found in common though with anything that looked remotely high yield or aesthetically pleasing, (let alone both) came at quite a price premium. Also the amount of options really left me as a newcomer initially very confused and overwhelmed with all of the options.
 
 Most of the ones that I liked the look of, based on the yield, energy commitment, maintenance and reviews typically came in at many hundreds of dollars.
 
