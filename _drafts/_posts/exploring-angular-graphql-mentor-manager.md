@@ -142,3 +142,5 @@ In the file you're going to paste:
         branch: master
 
 In the first Hackernoon.com post the author explains the parts of this configuration file. We will have to tailor it a bit for our own project though.
+
+First we're going to want to setup
