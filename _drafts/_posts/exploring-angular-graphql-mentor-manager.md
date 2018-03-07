@@ -133,6 +133,12 @@ In the .travis.yml file you're going to paste:
       - npm run e2e
       - ng build
 
-Next we're going to want to install the CLI for Heroku from the link below.
+Next we're going to want to install the Command Line Interface(CLI) for Heroku from the link below:
+
+[https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli "https://devcenter.heroku.com/articles/heroku-cli")
+
+After that you'll have to install the the Travis CLI from the link below:
+
+[https://github.com/travis-ci/travis.rb#installation](https://github.com/travis-ci/travis.rb#installation "https://github.com/travis-ci/travis.rb#installation")
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
