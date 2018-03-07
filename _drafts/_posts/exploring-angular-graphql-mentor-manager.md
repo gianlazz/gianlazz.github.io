@@ -96,3 +96,7 @@ From there we'll need to do a bit more configuring.
 Now is a good time to open up your project folder in vscode. From there you can easily create a new file which will be named:
 
     .travis.yml
+
+The period at the beginning will make this file hidden by default from your file browser but on a Mac you can type CMD + SHIFT + . to be able to view them. Other wise you'll also be able to see it by default in vscode.
+
+This file is going to serve as a configuration file that Travics-CI is going to look for in your repository so I knows how to build and deploy your project.
