@@ -11,6 +11,6 @@ This project is a collaborative effort between myself and my buddy [Sameez Chara
 
 ## Premise
 
-Sameez and I attend and have long time involvement with CodeDay.org hackathons and we'd been discussing ideas of how to streamline the process of running them. From this Idea Sameez approached me with the concept of making an app to help the student attendees get linked up with the mentors at the event.
+Sameez and I attend and have long time involvement with [CodeDay.org](http://codeday.org) hackathons and we'd been discussing ideas of how to streamline the process of running them. From this Idea Sameez approached me with the concept of making an app to help the student attendees get linked up with the mentors at the event.
 
 The hope was that this way anyone at any skill level or focus could look through a list of mentors, see which were currently busy or available and pick to request them based off of the mentors profile of strengths and interests.
