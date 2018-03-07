@@ -92,3 +92,9 @@ Then push your code
 Create a free account on [https://travis-ci.org/](https://travis-ci.org/ "https://travis-ci.org/") with it configured to your GitHub account. From there find your repository for the new Angular app you just pushed and check it.
 
 From there we'll need to do a bit more configuring.
+
+![](/uploads/2018/03/07/Screen Shot 2018-03-06 at 8.08.33 PM.png)
+
+Now is a good time to open up your project folder in vscode. From there you can easily create a new file which will be named:
+
+    .travis.yml
