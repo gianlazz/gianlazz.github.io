@@ -87,4 +87,4 @@ Then push your code
 
     git push -u origin master
 
-#### Step 2 Continuous Integration setup
+#### Step two Continuous Integration setup
