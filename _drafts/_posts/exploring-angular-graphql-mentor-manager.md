@@ -141,6 +141,8 @@ After that you'll have to install the the Travis CLI from the link below:
 
 [https://github.com/travis-ci/travis.rb#installation](https://github.com/travis-ci/travis.rb#installation "https://github.com/travis-ci/travis.rb#installation")
 
+    gem install travis -v 1.8.8 --no-rdoc --no-ri
+
 After that we're going to setup the Heroku deployment configuration in the .travis.yml file
 
     deploy:
