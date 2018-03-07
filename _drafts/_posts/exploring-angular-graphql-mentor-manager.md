@@ -58,3 +58,15 @@ From there you can then locally serve you're newly create angular app
 You can then close your app in the terminal by typing the shortcut control + c. After that install PrimeNG to your new angular app while still in it's directory with this command
 
     npm install primeng --save
+
+Go to GitHub and create a new repository. At that point it will be empty and you'll have to push the newly created Angular app from your computer to your GitHub repository.
+
+Here's my repo:
+
+[https://github.com/gianlazz/Hackathon-Manager](https://github.com/gianlazz/Hackathon-Manager "https://github.com/gianlazz/Hackathon-Manager")
+
+When you initialize an angular project it automatically initializes git in the repo and sets it up to track and ignore the correct files.
+
+While still having you're terminal window open still with the directory pointed to your angular project run this command
+
+    
