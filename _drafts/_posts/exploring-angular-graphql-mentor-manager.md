@@ -162,7 +162,7 @@ After that we're going to setup the Heroku deployment configuration in the .trav
 
 After that you're going to login to travis through the CLI with:
 
-    travis login
+    travis login --auto
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
 
