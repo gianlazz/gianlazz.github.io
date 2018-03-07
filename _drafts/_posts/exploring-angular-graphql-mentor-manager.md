@@ -30,3 +30,5 @@ To keep it simple we were thinking of only having the accounts for the Mentors a
 * TravisCI.org for continuous integration 
 * We'll also be using TravisCI for continuous deployment from the master branch to a free Heroku vm for hosting
 * And we'll be coding it all in VSCode
+
+#### Step one Project initialization
