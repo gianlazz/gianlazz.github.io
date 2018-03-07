@@ -28,4 +28,4 @@ To keep it simple we were thinking of only having the accounts for the Mentors a
 
 * For collaboration we'll be using Github
 * TravisCI.org for continuous integration 
-* We'll also be using TravisCI  forcontinuous deployment from the master branch to a free Heroku vm for hosting
+* We'll also be using TravisCI for continuous deployment from the master branch to a free Heroku vm for hosting
