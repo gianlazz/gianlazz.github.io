@@ -149,3 +149,7 @@ After that we're going to setup the Heroku deployment configuration in the .trav
       secure: "YOUR ENCRYPTED API KEY"
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
+
+You can see the state of my build here:
+
+[https://travis-ci.org/gianlazz/Hackathon-Manager](https://travis-ci.org/gianlazz/Hackathon-Manager "https://travis-ci.org/gianlazz/Hackathon-Manager")
