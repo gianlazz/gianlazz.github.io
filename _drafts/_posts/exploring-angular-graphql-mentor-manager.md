@@ -105,9 +105,9 @@ The period at the beginning will make this file hidden by default from your file
 
 This file is going to serve as a configuration file that Travics-CI is going to look for in your repository so I knows how to build and deploy your project.
 
-[https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34](https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34 "https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34")
+I took notes from this example that is mentioned in the hackernoon post linked above.
 
-In the file you're going to paste:
+In the .travis.yml file you're going to paste:
 
     language: node_js
     node_js:
@@ -133,12 +133,6 @@ In the file you're going to paste:
       - npm run e2e
       - ng build
 
-In the first Hackernoon.com post the author explains the parts of this configuration file. We will have to tailor it a bit for our own project though.
-
-//Do I need this if I'm not deploying to GitHub pages? probably not...
-
-First we're going to want to setup a GitHub token so that Travis can have all the access it needs to your repository.
-
-Next we're going to want to install
+Next we're going to want to install the CLI for Heroku from the link below.
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
