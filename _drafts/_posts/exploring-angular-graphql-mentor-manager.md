@@ -54,3 +54,7 @@ Change directories into your project with
 From there you can then locally serve you're newly create angular app
 
     ng serve --open
+
+You can then close your app in the terminal by typing the shortcut control + c. After that install PrimeNG to your new angular app while still in it's directory with this command
+
+    npm install primeng --save
