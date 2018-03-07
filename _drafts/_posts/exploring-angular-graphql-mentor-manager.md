@@ -31,4 +31,14 @@ To keep it simple we were thinking of only having the accounts for the Mentors a
 * We'll also be using TravisCI for continuous deployment from the master branch to a free Heroku vm for hosting
 * And we'll be coding it all in VSCode
 
+This tutorial will also assume that you're working on a Mac though the commands and tools should work well on other platforms with few changes
+
 #### Step one Project initialization
+
+Install Node.js which will include NPM for managing the packages.
+
+[https://nodejs.org/en/](https://nodejs.org/en/ "https://nodejs.org/en/")
+
+Install the Angular CLI in Terminal line with
+
+    sudo npm install -g @angular/cli
