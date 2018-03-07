@@ -133,9 +133,15 @@ In the .travis.yml file you're going to paste:
       - npm run e2e
       - ng build
 
+---
+
+#### Do I need this?
+
 Next we're going to have to setup the Github token so that Travis can have the access to your repository that it needs.
 
 Go to GitHub Settings > Personal Access Tokens > Generate New Token.
+
+---
 
 Next we're going to want to install the Command Line Interface(CLI) for Heroku from the link below:
 
