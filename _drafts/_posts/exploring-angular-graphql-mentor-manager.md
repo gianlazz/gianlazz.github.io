@@ -156,9 +156,9 @@ After that you'll have to install the the Travis CLI from the link below:
 After that we're going to setup the Heroku deployment configuration in the .travis.yml file
 
     deploy:
-    provider: heroku
-    api_key:
-      secure: "YOUR ENCRYPTED API KEY"
+      provider: heroku
+      api_key:
+        secure: "YOUR ENCRYPTED API KEY"
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
 
