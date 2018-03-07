@@ -46,3 +46,11 @@ Install the Angular CLI in Terminal line with
 Then create and initialize the new Angular project and all of it's dependencies
 
     ng new mentor-managment
+
+Change directories into your project with
+
+    cd mentor-mangment
+
+From there you can then locally serve you're newly create angular app
+
+    ng serve --open
