@@ -15,7 +15,7 @@ Sameez and I attend and have long time involvement with [CodeDay.org](http://cod
 
 The hope was that this way anyone at any skill level or focus could look through a list of mentors, see which were currently busy or available and pick to request them based off of the mentors profile of strengths and interests.
 
-So here's a list of proposed features and tech stack:
+#### So here's a list of proposed features and tech stack:
 
 * Angular Single Page Web App front end
 * Angular PrimeNG for UI component library
@@ -23,3 +23,9 @@ So here's a list of proposed features and tech stack:
 * Twillio SMS API support to hail the mentors
 
 To keep it simple we were thinking of only having the accounts for the Mentors and pre-configuring them. The students will all then look from the same public queue of mentors on a first come first serve basis. The mentors that are busy will be greyed out and others will have a button to select them. After selecting them the users will then be able to request them buy giving a brief description, their phone number for contact, along with there general location at the venue so the mentor can find them, this will all then be sent to the mentor to notify them that they're being summoned.
+
+#### Devops and hosting:
+
+* For collaboration we'll be using Github
+* TravisCI.org for continuous integration 
+* We'll also be using TravisCI  forcontinuous deployment from the master branch to a free Heroku vm for hosting
