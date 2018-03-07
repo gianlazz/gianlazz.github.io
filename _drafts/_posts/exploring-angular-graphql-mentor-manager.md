@@ -160,6 +160,10 @@ After that we're going to setup the Heroku deployment configuration in the .trav
       api_key:
         secure: "YOUR ENCRYPTED API KEY"
 
+After that you're going to login to travis through the CLI with:
+
+    travis login
+
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
 
 You can see the state of my build here:
