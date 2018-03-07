@@ -100,3 +100,37 @@ Now is a good time to open up your project folder in vscode. From there you can 
 The period at the beginning will make this file hidden by default from your file browser but on a Mac you can type CMD + SHIFT + . to be able to view them. Other wise you'll also be able to see it by default in vscode.
 
 This file is going to serve as a configuration file that Travics-CI is going to look for in your repository so I knows how to build and deploy your project.
+
+In the file you're going to paste:
+
+    language: node_js
+    node_js:
+      - "7"
+    sudo: true
+    dist: trusty
+    
+    branches:
+      only:
+      - master
+    
+    before_script:
+     - export CHROME_BIN=/usr/bin/google-chrome
+     - export DISPLAY=:99.0
+     - sh -e /etc/init.d/xvfb start
+     - sudo apt-get update
+     - sudo apt-get install -y libappindicator1 fonts-liberation
+     - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+     - sudo dpkg -i google-chrome*.deb
+    
+    script: 
+      - ng test --watch false -cc
+      - npm run e2e
+      - ng build -bh "https://ahsanayaz.github.io/ng-traffic-ci/"
+    
+    deploy:
+      provider: pages
+      skip_cleanup: true
+      github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+      local_dir: dist
+      on:
+        branch: master
