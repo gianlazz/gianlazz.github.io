@@ -93,7 +93,7 @@ Create a free account on [https://travis-ci.org/](https://travis-ci.org/ "https:
 
 From there we'll need to do a bit more configuring.
 
-![](/uploads/2018/03/07/Screen Shot 2018-03-06 at 8.08.33 PM.png)
+<img src="/uploads/2018/03/07/Screen Shot 2018-03-06 at 8.08.33 PM.png" width="100" />
 
 Now is a good time to open up your project folder in vscode. From there you can easily create a new file which will be named:
 
