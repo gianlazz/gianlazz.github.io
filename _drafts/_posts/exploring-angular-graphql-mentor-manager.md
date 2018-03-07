@@ -42,3 +42,7 @@ Install Node.js which will include NPM for managing the packages.
 Install the Angular CLI in Terminal line with
 
     sudo npm install -g @angular/cli
+
+Then create and initialize the new Angular project and all of it's dependencies
+
+    ng new mentor-managment
