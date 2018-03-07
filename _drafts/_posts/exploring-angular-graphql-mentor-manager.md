@@ -140,3 +140,5 @@ In the file you're going to paste:
       local_dir: dist
       on:
         branch: master
+
+In the first Hackernoon.com post the author explains the parts of this configuration file. We will have to tailor it a bit for our own project though.
