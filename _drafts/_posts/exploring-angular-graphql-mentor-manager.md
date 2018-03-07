@@ -88,3 +88,7 @@ Then push your code
     git push -u origin master
 
 #### Step two Continuous Integration setup
+
+Create a free account on [https://travis-ci.org/](https://travis-ci.org/ "https://travis-ci.org/") with it configured to your GitHub account. From there find your repository for the new Angular app you just pushed and check it.
+
+From there we'll need to do a bit more configuring.
