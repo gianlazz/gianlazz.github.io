@@ -164,7 +164,11 @@ Login to travis through the CLI with:
 
     travis login --auto
 
+Setup the secure api_key
+
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
+
+    travis encrypt $(heroku auth:token) --add deploy.api_key
 
 You can see the state of my build here:
 
