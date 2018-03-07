@@ -74,3 +74,7 @@ When you initialize an angular project it automatically sets it up for git to tr
 While still having you're terminal window open still with the directory pointed to your angular project run this command
 
     git remote add origin https://github.com/YOUR_USERNAME/YOUR-PROJECT-NAME.git
+
+Then push your code
+
+    git push -u origin master
