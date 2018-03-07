@@ -75,6 +75,14 @@ While still having you're terminal window open still with the directory pointed 
 
     git remote add origin https://github.com/YOUR_USERNAME/YOUR-PROJECT-NAME.git
 
+Stage your project files
+
+    git add .
+
+Commit
+
+    git commit -m "first commit"
+
 Then push your code
 
     git push -u origin master
