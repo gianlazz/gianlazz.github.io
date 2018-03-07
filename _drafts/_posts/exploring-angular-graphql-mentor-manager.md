@@ -5,7 +5,7 @@ author: ''
 title: 'Exploring Angular + GraphQL: Hackathon Mentor Manager App'
 date: 2018-03-06 00:00:00 +0000
 excerpt: ''
-image: ''
+image: "/uploads/2018/03/07/Screen Shot 2018-03-06 at 6.56.31 PM.png"
 ---
 This project is a collaborative effort between myself and my buddy [Sameez Charania](https://www.linkedin.com/in/sameez) who thought of the idea. From it we will be exploring full stack SPA development with Angular and GraphQL.
 
