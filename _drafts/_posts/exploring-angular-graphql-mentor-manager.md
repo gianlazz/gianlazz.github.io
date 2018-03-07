@@ -143,4 +143,6 @@ In the file you're going to paste:
 
 In the first Hackernoon.com post the author explains the parts of this configuration file. We will have to tailor it a bit for our own project though.
 
-First we're going to want to setup
+//Do I need this if I'm not deploying to GitHub pages? probably not...
+
+First we're going to want to setup a GitHub token so that Travis can have all the access it needs to your repository.
