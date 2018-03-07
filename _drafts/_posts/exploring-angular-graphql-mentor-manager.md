@@ -147,7 +147,7 @@ Next we're going to want to install the Command Line Interface(CLI) for Heroku f
 
 [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli "https://devcenter.heroku.com/articles/heroku-cli")
 
-After that you'll have to install the the Travis CLI from the link below:
+After that you'll have to install the the Travis CLI from the command and link below:
 
 [https://github.com/travis-ci/travis.rb#installation](https://github.com/travis-ci/travis.rb#installation "https://github.com/travis-ci/travis.rb#installation")
 
