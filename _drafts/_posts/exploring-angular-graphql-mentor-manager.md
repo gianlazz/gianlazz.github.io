@@ -24,8 +24,9 @@ The hope was that this way anyone at any skill level or focus could look through
 
 To keep it simple we were thinking of only having the accounts for the Mentors and pre-configuring them. The students will all then look from the same public queue of mentors on a first come first serve basis. The mentors that are busy will be greyed out and others will have a button to select them. After selecting them the users will then be able to request them buy giving a brief description, their phone number for contact, along with there general location at the venue so the mentor can find them, this will all then be sent to the mentor to notify them that they're being summoned.
 
-#### DevOps and hosting:
+#### Tools, DevOps and Hosting:
 
 * For collaboration we'll be using Github
 * TravisCI.org for continuous integration 
 * We'll also be using TravisCI for continuous deployment from the master branch to a free Heroku vm for hosting
+* And we'll be coding it all in VSCode
