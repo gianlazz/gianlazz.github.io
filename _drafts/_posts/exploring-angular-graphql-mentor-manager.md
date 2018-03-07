@@ -131,18 +131,14 @@ In the file you're going to paste:
     script: 
       - ng test --watch false -cc
       - npm run e2e
-      - ng build -bh "https://ahsanayaz.github.io/ng-traffic-ci/"
-    
-    deploy:
-      provider: pages
-      skip_cleanup: true
-      github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-      local_dir: dist
-      on:
-        branch: master
+      - ng build
 
 In the first Hackernoon.com post the author explains the parts of this configuration file. We will have to tailor it a bit for our own project though.
 
 //Do I need this if I'm not deploying to GitHub pages? probably not...
 
 First we're going to want to setup a GitHub token so that Travis can have all the access it needs to your repository.
+
+Next we're going to want to install
+
+[https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
