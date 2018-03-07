@@ -93,6 +93,10 @@ Create a free account on [https://travis-ci.org/](https://travis-ci.org/ "https:
 
 From there we'll need to do a bit more configuring.
 
+FYI I'm referencing this article for steps:
+
+[https://hackernoon.com/continuous-integration-for-angular-projects-with-travisci-4d2cc72d7853](https://hackernoon.com/continuous-integration-for-angular-projects-with-travisci-4d2cc72d7853 "https://hackernoon.com/continuous-integration-for-angular-projects-with-travisci-4d2cc72d7853")
+
 Now is a good time to open up your project folder in vscode. From there you can easily create a new file which will be named:
 
     .travis.yml
@@ -100,6 +104,8 @@ Now is a good time to open up your project folder in vscode. From there you can 
 The period at the beginning will make this file hidden by default from your file browser but on a Mac you can type CMD + SHIFT + . to be able to view them. Other wise you'll also be able to see it by default in vscode.
 
 This file is going to serve as a configuration file that Travics-CI is going to look for in your repository so I knows how to build and deploy your project.
+
+[https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34](https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34 "https://gist.github.com/AhsanAyaz/820d40da5d1aa45c138f9e55d5193d34")
 
 In the file you're going to paste:
 
