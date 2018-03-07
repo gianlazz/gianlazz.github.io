@@ -71,7 +71,7 @@ Here's my repo:
 
 When you initialize an angular project it automatically sets it up for git to track and ignore the correct files.
 
-While still having you're terminal window open still with the directory pointed to your angular project run this command
+While still having your terminal window open still with the directory pointed to your angular project run this command
 
     git remote add origin https://github.com/YOUR_USERNAME/YOUR-PROJECT-NAME.git
 
