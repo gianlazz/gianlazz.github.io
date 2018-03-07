@@ -160,7 +160,7 @@ After that we're going to setup the Heroku deployment configuration in the .trav
       api_key:
         secure: "YOUR ENCRYPTED API KEY"
 
-After that you're going to login to travis through the CLI with:
+Login to travis through the CLI with:
 
     travis login --auto
 
