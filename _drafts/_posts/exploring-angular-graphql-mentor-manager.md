@@ -164,7 +164,7 @@ Login to travis through the CLI with:
 
     travis login --auto
 
-Setup the secure api_key
+Now setup the secure api_key by running the command below in the terminal while it's still in the directory of your angular project
 
 [https://docs.travis-ci.com/user/deployment/heroku/](https://docs.travis-ci.com/user/deployment/heroku/ "https://docs.travis-ci.com/user/deployment/heroku/")
 
