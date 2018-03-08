@@ -177,3 +177,5 @@ Now setup the secure api_key by running the command below in the terminal while 
 You can see the state of my build here:
 
 [https://travis-ci.org/gianlazz/Hackathon-Manager](https://travis-ci.org/gianlazz/Hackathon-Manager "https://travis-ci.org/gianlazz/Hackathon-Manager")
+
+Create a project on Heroku
