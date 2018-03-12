@@ -179,3 +179,15 @@ You can see the state of my build here:
 [https://travis-ci.org/gianlazz/Hackathon-Manager](https://travis-ci.org/gianlazz/Hackathon-Manager "https://travis-ci.org/gianlazz/Hackathon-Manager")
 
 Create a project on Heroku
+
+---
+
+NOTE TO SELF: I struggled here from not following the steps carefully enough. Make sure to be thorough with this part.
+
+//Make sure to follow the deployment configuration steps carefully in either of these links below.
+
+[https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 "https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147")
+
+[https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352](https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352 "https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352")
+
+---
