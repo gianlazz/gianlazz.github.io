@@ -111,27 +111,31 @@ In the .travis.yml file you're going to paste:
 
     language: node_js
     node_js:
-      - "7"
+    - '7'
     sudo: true
     dist: trusty
-    
     branches:
       only:
       - master
-    
     before_script:
-     - export CHROME_BIN=/usr/bin/google-chrome
-     - export DISPLAY=:99.0
-     - sh -e /etc/init.d/xvfb start
-     - sudo apt-get update
-     - sudo apt-get install -y libappindicator1 fonts-liberation
-     - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-     - sudo dpkg -i google-chrome*.deb
+    - export CHROME_BIN=/usr/bin/google-chrome
+    - export DISPLAY=:99.0
+    - sh -e /etc/init.d/xvfb start
+    - sudo apt-get update
+    - sudo apt-get install -y libappindicator1 fonts-liberation
+    - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    - sudo dpkg -i google-chrome*.deb
+    script:
+    - ng test --watch false -cc
+    - npm run e2e
+    - ng build
+    deploy:
+      provider: heroku
+      api_key:
+        secure: 
     
-    script: 
-      - ng test --watch false -cc
-      - npm run e2e
-      - ng build
+
+\*You may also want a field for the name of the app on heroku if it's different than the name on the git repo. This is handled by convention and requires an extra "app" field in the deploy section of the .yml
 
 ---
 
