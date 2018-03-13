@@ -148,13 +148,6 @@ After that you'll have to install the the Travis CLI from the command and link b
 
     gem install travis -v 1.8.8 --no-rdoc --no-ri
 
-After that we're going to setup the Heroku deployment configuration in the .travis.yml file
-
-    deploy:
-      provider: heroku
-      api_key:
-        secure: "YOUR ENCRYPTED API KEY"
-
 Login to travis through the CLI with:
 
     travis login --auto
