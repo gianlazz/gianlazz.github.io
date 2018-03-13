@@ -133,7 +133,6 @@ In the .travis.yml file you're going to paste:
       provider: heroku
       api_key:
         secure: 
-    
 
 \*You may also want a field for the name of the app on heroku if it's different than the name on the git repo. This is handled by convention and requires an extra "app" field in the deploy section of the .yml
 
