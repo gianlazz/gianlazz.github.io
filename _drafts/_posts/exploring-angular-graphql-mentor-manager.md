@@ -137,6 +137,8 @@ In the .travis.yml file you're going to paste:
 
 \*You may also want a field for the name of the app on heroku if it's different than the name on the git repo. This is handled by convention and requires an extra "app" field in the deploy section of the .yml
 
+[https://docs.travis-ci.com/user/deployment/heroku/#Deploying-Custom-Application-Names](https://docs.travis-ci.com/user/deployment/heroku/#Deploying-Custom-Application-Names "https://docs.travis-ci.com/user/deployment/heroku/#Deploying-Custom-Application-Names")
+
 #### Next we're going to want to install the Command Line Interface(CLI) for Heroku from the link below:
 
 [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli "https://devcenter.heroku.com/articles/heroku-cli")
@@ -173,6 +175,8 @@ You can see the state of my build here:
 [https://travis-ci.org/gianlazz/Hackathon-Manager](https://travis-ci.org/gianlazz/Hackathon-Manager "https://travis-ci.org/gianlazz/Hackathon-Manager")
 
 Create a project on Heroku and name it after the name of the repository on GitHub.
+
+After that we're going to have to setup the angular project for deployment. Out of the box it's not configured to be run in a non development environment.
 
 ---
 
