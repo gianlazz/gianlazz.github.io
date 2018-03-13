@@ -137,17 +137,7 @@ In the .travis.yml file you're going to paste:
 
 \*You may also want a field for the name of the app on heroku if it's different than the name on the git repo. This is handled by convention and requires an extra "app" field in the deploy section of the .yml
 
----
-
-#### Do I need this?
-
-Next we're going to have to setup the Github token so that Travis can have the access to your repository that it needs.
-
-Go to GitHub Settings > Personal Access Tokens > Generate New Token.
-
----
-
-Next we're going to want to install the Command Line Interface(CLI) for Heroku from the link below:
+#### Next we're going to want to install the Command Line Interface(CLI) for Heroku from the link below:
 
 [https://devcenter.heroku.com/articles/heroku-cli](https://devcenter.heroku.com/articles/heroku-cli "https://devcenter.heroku.com/articles/heroku-cli")
 
