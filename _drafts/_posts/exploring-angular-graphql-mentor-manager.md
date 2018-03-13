@@ -172,7 +172,7 @@ You can see the state of my build here:
 
 [https://travis-ci.org/gianlazz/Hackathon-Manager](https://travis-ci.org/gianlazz/Hackathon-Manager "https://travis-ci.org/gianlazz/Hackathon-Manager")
 
-Create a project on Heroku
+Create a project on Heroku and name it after the name of the repository on GitHub.
 
 ---
 
