@@ -105,7 +105,7 @@ The period at the beginning will make this file hidden by default from your file
 
 This file is going to serve as a configuration file that Travics-CI is going to look for in your repository so I knows how to build and deploy your project.
 
-I took notes from this example that is mentioned in the hackernoon post linked above.
+I initially took notes from this example that is mentioned in the hackernoon post linked above. However I've modified the config script to suit these deployment purposes.
 
 In the .travis.yml file you're going to paste:
 
