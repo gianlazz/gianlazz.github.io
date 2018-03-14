@@ -11,7 +11,7 @@ This project is a collaborative effort between myself and my buddy [Sameez Chara
 
 ## Premise
 
-Sameez and I attend and have long time involvement with [CodeDay.org](http://codeday.org) hackathons. We'd been discussing ideas of how to streamline the process of running them. From this Idea Sameez approached me with the concept of making an app to help the student attendees get linked up with the mentors at the event.
+Sameez and I attend and have long time involvement with [CodeDay.org](http://codeday.org) hackathons. We'd been discussing ideas of how to streamline the process of running them. From this idea Sameez approached me with the concept of making an app to help the student attendees get linked up with the mentors at the event.
 
 The hope was that this way anyone at any skill level or focus could look through a list of mentors, see which were currently busy or available and pick to request them based off of the mentors profile of strengths and interests.
 
@@ -170,12 +170,59 @@ After that we're going to have to setup the angular project for deployment. Out 
 
 ---
 
-NOTE TO SELF: I struggled here from not following the steps carefully enough. Make sure to be thorough with this part.
-
-//Make sure to follow the deployment configuration steps carefully in either of these links below.
+### To setup your project for deployment I've taken quotes from this article: 
 
 [https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 "https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147")
 
-[https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352](https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352 "https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352")
+To begin preparing your project for deployment on Heroku run
+
+>     npm install @angular/cli@latest @angular/compiler-cli --save-dev
+>
+> In your package.json, copy
+>
+> `"@angular/cli”: “1.4.9”,  
+> "@angular/compiler-cli": "^4.4.6",`
+>
+> from devDependencies to dependencies
+>
+> #### Create postinstall script in package.json
+>
+> Under “scripts”, add a postinstall command like so:
+>
+> `"postinstall": "ng build --aot -prod"`
+>
+> This tells Heroku to build the application using Ahead Of Time (AOT) compiler and make it production-ready. This will create a `dist` folder where all html and javascript converted version of our app will be launched from.
+>
+> #### Add Node and NPM engines
+>
+> You will need to add the Node and NPM engines that Heroku will use to run your application. Preferably, it should be same version you have on your machine. So, run `node -v` and `npm -v` to get the correct version and include it in your package.json file like so:
+>
+> #### Copy typescript to dependencies.
+>
+> Copy `"typescript": "\~2.3.3"` from devDependencies to dependencies to also inform Heroku what typescript version to use.
+>
+> #### Install Enhanced Resolve 3.3.0
+>
+> Run the command `npm install enhanced-resolve@3.3.0 --save-dev`
+>
+> #### Install Server to run your app
+>
+> Locally we run `ng serve` from terminal to run our app on local browser. But we will need to setup an Express server that will run our production ready app (from dist folder created) only to ensure light-weight and fast loading.
+>
+> Install Express server by running:
+>
+> `npm install express --save`
+>
+> Create a server.js file in the root of the application and paste the following code.
+>
+> #### Change start command
+>
+> In package.json, change the “start” command to `node server.js` so it becomes:
+>
+> `"start": "node server.js"`
+>
+> Here’s what the complete package.json looks like. Yours may contain more depending on your application-specific packages.
+
+_This concludes the quoted section from the medium link above_
 
 ---
