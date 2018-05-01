@@ -2,7 +2,7 @@
 permalink: "/blog/:title/"
 layout: post
 author: Gian Lazzarini
-title: C# MongoDb Driver 2.6.0 Nuget Causing System.Runtime Missing Issues & Solution
+title: C# MongoDb Driver 2.6.0 Nuget Causing System.Runtime Reference Issues & Solution
 date: 2018-04-30 00:00:00 +0000
 excerpt: ''
 image: "/uploads/2018/05/01/Capture.PNG"
