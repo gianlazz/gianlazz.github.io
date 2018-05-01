@@ -5,7 +5,7 @@ author: Gian Lazzarini
 title: C# MongoDb Driver 2.6.0 Nuget Causing System.Runtime Missing Issues & Solution
 date: 2018-04-30 00:00:00 +0000
 excerpt: ''
-image: ''
+image: "/uploads/2018/05/01/Capture.PNG"
 ---
 This one really had me stumped and was a very frustrating wast of time. I tried everything I could from installing the NuGet package for each missing system.runtime or related dependency for which there were referencing issues, to adding various versions of said dependencies in the .config file and nothing worked...
 
