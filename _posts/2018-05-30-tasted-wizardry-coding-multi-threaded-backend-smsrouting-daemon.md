@@ -2,7 +2,7 @@
 permalink: "/blog/:title/"
 layout: post
 author: Gian
-title: 'Tasted Wizardry: Coding Multi Threaded Backend Inbound Sms Routing Daemon'
+title: Coding Multi Threaded Backend Inbound Sms Routing Daemon
 date: 2018-05-30 00:00:00 +0000
 excerpt: HackathonHandler.com's inbound sms processing queue for client team SignalR
   updates
