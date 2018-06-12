@@ -8,13 +8,9 @@ excerpt: HackathonHandler.com's inbound sms processing queue for client team Sig
   updates
 image: "/uploads/2018/05/31/MultiThreadedSmsQueueProcessingDaemon.png"
 ---
-The feeling of elation that came over me as I sent an Sms response to my HackathonHandler.com site and saw it immediately light up a break-point in my code to denote a positive, request, response match; it was dense with excitement and possibilities for the future to come.
+The feeling of elation was palpable as I sent an Sms response to my HackathonHandler.com site and saw it immediately light up a break-point in my code to denote a positive, request, response match.
 
-It felt like a marked moment in my development career as if I'd stepped through a door, now able to reach a whole new league of my most exciting prospective development dreams.
-
-It felt like my first real taste of programming wizardry.
-
-And in many ways it was, it was the first time I'd ever written multi threaded code, along with a robust set of back-end layers, transient real time dynamic client JS code being executed and orchestrated by a C# domain layer. The rich web front end to bridge the gaps of the given technologies I had to work with really polished it off nicely.
+This was the first time I'd ever written multi threaded code, along with a robust set of back-end layers, transient real time dynamic client JS code being executed and orchestrated by a C# domain layer. The rich web front end to bridge the gaps of the given technologies I had to work with really polished it off nicely.
 
 The expanse I'd been presented with in making the HackathonHandler.com site and experience was to create the most friction-less experience. It was to create a natural ongoing interactive user experience from the moment they were registered into the Hackathon event. All this mind you had to be in accordance with tasteful privacy considerations. For example I wanted the most empowering experience for the event attendees. I'd decided this was to be able to request the assistance of whichever resource they saw most fit. For this I needed to ask as little of the students and empower them through the technology as much as possible.
 
