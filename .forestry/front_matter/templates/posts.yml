@@ -39,7 +39,6 @@ fields:
   default: 
 pages:
 - _posts/2018-06-12-electron-netcore-2-0-webapi-w-kestrel-server-backend-bundled.md
-- _posts/electron.md
 - _posts/2018-05-30-tasted-wizardry-coding-multi-threaded-backend-smsrouting-daemon.md
 - _posts/2018-04-30-c-mongodb-driver-2-6-0-nuget-causing-system-runtime-missing-issues-solution.md
 - _posts/2018-05-08-simple-attiny85-led-driver-prototype-w-buck-converter-dc-dc-psu-build-timelapse.md
