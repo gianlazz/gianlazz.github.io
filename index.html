@@ -21,15 +21,7 @@ sitemap:
     {% include head.html %}
 
 		<script src="{{ "/assets/js/instafeed.min.js" | absolute_url }}"></script>
-		<link rel="stylesheet" type="text/css" href="/assets/slick/slick.css"/>
-		// Add the new slick-theme.css if you want the default styling
-		<link rel="stylesheet" type="text/css" href="/assets/slick/slick-theme.css"/>
 
-		<div class="your-class">
-			<div>your content</div>
-			<div>your content</div>
-			<div>your content</div>
-		</div>
 	</head>
 	<body class="is-loading">
 
@@ -88,7 +80,7 @@ sitemap:
 											});
 											feed.run();
 									</script>
-									<div id="instafeed"  class="slider autoplay"></div>
+									<div id="instafeed"></div>
 
 								</header>
 								<!-- <a href="#" class="image main"><img src="{{ "/images/workspace.jpg" | absolute_url }}" alt="" /></a> -->
@@ -144,20 +136,5 @@ sitemap:
 		<!-- Scripts -->
 		{% include scripts-main.html %}
 		{% include tracking.html %}
-		
-		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="/assets/slick/slick.min.js"></script>
-
-<script type="text/javascript">
-	$(document).ready(function(){
-		$('.autoplay').slick({
-			slidesToShow: 3,
-			slidesToScroll: 1,
-			autoplay: true,
-			autoplaySpeed: 2000,
-		});
-	});
-</script>
 	</body>
 </html>
