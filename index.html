@@ -69,14 +69,16 @@ sitemap:
 										<script src="{{ "/assets/js/instafeed.min.js" | absolute_url }}"></script>
 										<script type="text/javascript">
 											var feed = new Instafeed({
-													get: 'tagged',
-													tagName: 'programming',
-													clientId: '9094f7248ea441f2bbfc527ce5909a76'
+													get: 'user',
+													userId: '228138437',
+													accessToken: '228138437.1677ed0.429a1f3e3d0940718da622f2c665a6d0',
+													clientId: '9094f7248ea441f2bbfc527ce5909a76',
+    											limit:19
 											});
 											feed.run();
 									</script>
 									<div id="instafeed"></div>
-									
+
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/workspace.jpg" | absolute_url }}" alt="" /></a>
                 <!--
