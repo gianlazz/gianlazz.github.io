@@ -81,12 +81,16 @@ sitemap:
 													clientId: '9094f7248ea441f2bbfc527ce5909a76',
 													resolution: 'standard_resolution',
 													limit: 3,
-													template:'<a target="_blank" href="{{link}}"><img src="{{image}}" class="rounded" alt="..."/></a>', 
+													template:'<div class="thumbnail"> <a target="_blank" href="{{link}}"> <img src="{{image}}"/> <div class="caption"> <p>{{caption}}</p> </div> </a> </div>', 
 											});
 											feed.run();
 									</script>
 									{% endraw %}
-									<div id="instafeed"></div>
+									<div class="row">
+											<div class="col-md-4">
+													<div id="instafeed"></div>
+											</div>
+									</div>
 
 								</header>
 								<!-- <a href="#" class="image main"><img src="{{ "/images/workspace.jpg" | absolute_url }}" alt="" /></a> -->
