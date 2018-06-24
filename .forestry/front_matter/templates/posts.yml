@@ -38,7 +38,7 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/deploying-hackathonhandler-com-at-codeday-eastside-2018.md
+- _posts/2018-06-02-deploying-hackathonhandler-com-at-codeday-eastside-2018.md
 - _drafts/_posts/exploring-angular-graphql-mentor-manager.md
 - _drafts/_posts/2018-04-30-c-mongodb-driver-2-6-0-nuget-causing-system-runtime-missing-issues-solution.md
 - _drafts/_posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
