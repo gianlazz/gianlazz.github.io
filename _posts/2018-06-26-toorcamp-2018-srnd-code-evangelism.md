@@ -7,9 +7,9 @@ date: 2018-06-25 00:00:00 +0000
 excerpt: ''
 image: "/uploads/2018/06/26/DSC02608.JPG"
 ---
-Summer 2018 was my first Toorcamp experience. I'd first read about it back in 2010 when they'd originally hosted the event in an abandoned missile silo and had intended to go since.
+Summer 2018 was my first Toorcamp experience. I'd first read about it back in 2010 when they'd originally hosted the event in an abandoned missile silo and had intended to go since. I'm there on the right wearing my worn out "Hacker" from one of my first HackerNews Meetup events. It seems like fitting attire for the event and community.
 
-I was invited with the StudentRND crew via Tyler Menezez who was given an invitation to come along with bringing a number of others to facilitate in representing SRND and Codeday. All of this was graciously provided through David and Danielle Hulton the founders of the event and owners of local community loved Ada's technical books and cafe.
+I was invited with the StudentRND crew via Tyler Menezez(to the right of me by the podium) who was given an invitation to come along with bringing a number of others to facilitate in representing SRND and Codeday. All of this was graciously provided through David and Danielle Hulton the founders of the event and owners of local community loved Ada's technical books and cafe.
 
 Tyler, the Executive Directory of SRND/CodeDay had prepared a speech about social engineering in communities to facilitate in engaging them with tech education. This includes approaches to increasing adoption of technology engineering subjects in frequently under represented demographics. This is the mission behind the community and CodeDay events.
 
