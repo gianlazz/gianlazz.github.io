@@ -5,7 +5,7 @@ author: ''
 title: Setting Up A Lazztech Private Cloud
 date: 2018-06-27 00:00:00 +0000
 excerpt: Raspberry Pi Cloud w/ Docker, Kubernetes & Openfaas
-image: ''
+image: "/uploads/2018/06/28/20180627_225110.jpg"
 ---
 [https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi](https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi "https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi")
 
