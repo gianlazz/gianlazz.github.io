@@ -13,4 +13,8 @@ image: ''
 
 [https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh "https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh")
 
+\`\`\`ifconfig | grep broadcast\`\`\`
+
+\`\`\`arp -a\`\`\`
+
 [https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/ "https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/")
