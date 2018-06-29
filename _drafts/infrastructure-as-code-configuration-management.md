@@ -12,7 +12,7 @@ My first exposure to infrastructure as code configuration management tools and t
 
 He introduced me to puppet, chef, terraform and gave me a quick demo on how he's scripted out the entire SRND web deployment as code he can check into git to maintain consistency across deployments. He explained to me that this gave him freedom to deploy all of SRND's web presence quickly to the provider of his choice in minutes.
 
-This is incredibly powerful and offers the convenience of being able to do things like deploy the the cloud hosting environment that may be sponsoring SRND & CodeDays at that time.
+This is incredibly powerful and offers the convenience of being able to do things like deploy to the cloud hosting environment that may be sponsoring SRND & CodeDays at that time.
 
 I was hooked and saw places that this sort of work flow could improve development projects all around. Once I really got my head wrapped around it I've been surprised that not everyone is doing it yet. I can't tell you how many hours I've spent installing and setting up build dependencies only to get myself further and further invested in an increasingly more rigid and difficult to reproduce build environment...
 
