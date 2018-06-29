@@ -4,7 +4,8 @@ layout: post
 author: ''
 title: Infrastructure As Code Configuration Management
 date: 2018-06-29 00:00:00 +0000
-excerpt: ''
+excerpt: Consistent, Manageable Devops deployment of self hosted web apps for Lazztech
+  Private Cloud
 image: ''
 ---
 My first exposure to infrastructure as code configuration management tools and the powerful utility they offer in managing deployment was during a conversation I had with Tyler Menezes, the Executive Director of SRND as I was asking him how he was able to manage all of SRND's online web presence mostly by himself along with his already busy life.
