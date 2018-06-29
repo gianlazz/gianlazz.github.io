@@ -38,7 +38,7 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/lazztech-personal-on-prem-cloud.md
+- _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
 - _posts/2018-06-26-toorcamp-2018-srnd-code-evangelism.md
 - _posts/2018-06-02-deploying-hackathonhandler-com-at-codeday-eastside-2018.md
 - _posts/exposing-q-quantum-computing-as-a-subject.md
