@@ -9,7 +9,7 @@ image: ''
 ---
 My first exposure to infrastructure as code configuration management tools and the powerful utility they offer in managing deployment was during a conversation I had with Tyler Menezes, the Executive Director of SRND as I was asking him how he was able to manage all of SRND's online web presence mostly by himself along with his already busy life.
 
-He introduced me to puppet, chef and terraform and gave me a quick demo on how he's scripted out the entire SRND web deployment as code he can check into git to maintain consistency across deployments. He explained to me that this gave him freedom to deploy all of SRND's web presence quickly to the provider of his choice in minutes.
+He introduced me to puppet, chef, terraform and gave me a quick demo on how he's scripted out the entire SRND web deployment as code he can check into git to maintain consistency across deployments. He explained to me that this gave him freedom to deploy all of SRND's web presence quickly to the provider of his choice in minutes.
 
 This is incredibly powerful and offers the convenience of being able to do things like deploy the the cloud hosting environment that may be sponsoring SRND & CodeDays at that time.
 
@@ -21,8 +21,4 @@ Ansible and the Lazztech Private Cloud
 
 [https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/](https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/ "https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/")
 
-<div>
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/OmRxKQHtDbY](https://www.youtube.com/embed/OmRxKQHtDbY "https://www.youtube.com/embed/OmRxKQHtDbY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-</div>
+<div><iframe width="560" height="315" src="[https://www.youtube.com/embed/OmRxKQHtDbY](https://www.youtube.com/embed/OmRxKQHtDbY "https://www.youtube.com/embed/OmRxKQHtDbY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
