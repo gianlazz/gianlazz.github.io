@@ -1,7 +1,28 @@
 ---
 permalink: "/blog/:title/"
 layout: post
-author: 
+author: ''
 title: Infrastructure As Code Configuration Management
 date: 2018-06-29 00:00:00 +0000
+excerpt: ''
+image: ''
 ---
+My first exposure to infrastructure as code configuration management tools and the powerful utility they offer in managing deployment was during a conversation I had with Tyler Menezes, the Executive Director of SRND as I was asking him how he was able to manage all of SRND's online web presence mostly by himself along with his already busy life.
+
+He introduced me to puppet, chef and terraform and gave me a quick demo on how he's scripted out the entire SRND web deployment as code he can check into git to maintain consistency across deployments. He explained to me that this gave him freedom to deploy all of SRND's web presence quickly to the provider of his choice in minutes.
+
+This is incredibly powerful and offers the convenience of being able to do things like deploy the the cloud hosting environment that may be sponsoring SRND & CodeDays at that time.
+
+I was hooked and saw places that this sort of work flow could improve development projects all around. Once I really got my head wrapped around it I've been surprised that not everyone is doing it yet. I can't tell you how many hours I've spent installing and setting up build dependencies only to get myself further and further invested in an increasingly more rigid and difficult to reproduce build environment...
+
+I want to move beyond that as much as possible.
+
+Ansible and the Lazztech Private Cloud
+
+[https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/](https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/ "https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/")
+
+<div>
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/OmRxKQHtDbY](https://www.youtube.com/embed/OmRxKQHtDbY "https://www.youtube.com/embed/OmRxKQHtDbY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
