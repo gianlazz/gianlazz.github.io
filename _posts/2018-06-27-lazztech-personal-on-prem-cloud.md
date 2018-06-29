@@ -18,3 +18,9 @@ image: "/uploads/2018/06/28/20180627_225110.jpg"
 \`\`\`arp -a\`\`\`
 
 [https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/ "https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/")
+
+[https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975 "Kubernetes on pi gist by Alexis ")
+
+cloud flare ddns with code to turn their dns into ddns
+
+nopi
