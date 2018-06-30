@@ -30,5 +30,5 @@ Plus NASA uses Ansible to provision their environment on cloud.
 [https://www.ansible.com/blog/nasa-automation](https://www.ansible.com/blog/nasa-automation "https://www.ansible.com/blog/nasa-automation")
 
 {::nomarkdown}
-<div align="center"><iframe width="560vw" height="calc(100vw/1.77)" src="https://www.youtube.com/embed/OmRxKQHtDbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center"><iframe width="100%" height="calc(100vw/1.77)" src="https://www.youtube.com/embed/OmRxKQHtDbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 {:/}
