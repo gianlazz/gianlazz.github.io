@@ -17,7 +17,9 @@ I was hooked and saw places that this sort of work flow could improve developmen
 
 I want to move beyond that as much as possible.
 
-{::nomarkdown}<div align="center"><script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Ansible","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Puppet","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Chef","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Salt","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Terraform","geo":"US","time":"2017-06-30 2018-06-30"}],"category":32,"property":""}, {"exploreQuery":"cat=32&geo=US&q=Ansible,Puppet,Chef,Salt,Terraform&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script></div>{:/} 
+{::nomarkdown}
+<div align="center"><script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Ansible","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Puppet","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Chef","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Salt","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Terraform","geo":"US","time":"2017-06-30 2018-06-30"}],"category":32,"property":""}, {"exploreQuery":"cat=32&geo=US&q=Ansible,Puppet,Chef,Salt,Terraform&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script></div>
+{:/} 
 
 Ansible and the Lazztech Private Cloud
 
