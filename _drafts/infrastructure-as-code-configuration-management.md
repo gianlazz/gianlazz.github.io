@@ -18,8 +18,17 @@ I was hooked and saw places that this sort of work flow could improve developmen
 
 I want to move beyond that as much as possible.
 
+Making a choice:
+<div align="center">
+<script type="text/javascript" src="[https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js](https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js "https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js")"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":\[{"keyword":"Ansible","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Puppet","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Chef","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Salt","geo":"US","time":"2017-06-30 2018-06-30"},{"keyword":"Terraform","geo":"US","time":"2017-06-30 2018-06-30"}\],"category":32,"property":""}, {"exploreQuery":"cat=32&geo=US&q=Ansible,Puppet,Chef,Salt,Terraform&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"[https://trends.google.com:443/trends/embed/](https://trends.google.com:443/trends/embed/ "https://trends.google.com:443/trends/embed/")"}); </script>
+</div>
+
 Ansible and the Lazztech Private Cloud
 
 [https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/](https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/ "https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/")
 
-<div><iframe width="560" height="315" src="[https://www.youtube.com/embed/OmRxKQHtDbY](https://www.youtube.com/embed/OmRxKQHtDbY "https://www.youtube.com/embed/OmRxKQHtDbY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+Plus NASA uses Ansible to provision their environment on cloud.
+
+[https://www.ansible.com/blog/nasa-automation](https://www.ansible.com/blog/nasa-automation "https://www.ansible.com/blog/nasa-automation")
+
+<div align="center"><iframe width="560" height="315" src="[https://www.youtube.com/embed/OmRxKQHtDbY](https://www.youtube.com/embed/OmRxKQHtDbY "https://www.youtube.com/embed/OmRxKQHtDbY")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
