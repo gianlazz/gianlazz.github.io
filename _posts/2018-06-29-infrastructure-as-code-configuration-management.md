@@ -35,3 +35,5 @@ Plus NASA uses Ansible to provision their environment on cloud.
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OmRxKQHtDbY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 [https://www.ansible.com/resources/videos/quick-start-video](https://www.ansible.com/resources/videos/quick-start-video "https://www.ansible.com/resources/videos/quick-start-video")
+
+[https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/](https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/ "https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/")
