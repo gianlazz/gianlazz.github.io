@@ -24,3 +24,9 @@ image: "/uploads/2018/06/28/20180627_225110.jpg"
 cloud flare ddns with code to turn their dns into ddns
 
 nopi
+
+[https://www.youtube.com/watch?v=gcCCJnzKBRs](https://www.youtube.com/watch?v=gcCCJnzKBRs "https://www.youtube.com/watch?v=gcCCJnzKBRs")
+
+[http://www.pivpn.io](http://www.pivpn.io "http://www.pivpn.io")
+
+[OpenVPN Server raspberry pi /w PiVPN](https://www.youtube.com/watch?v=WA7QTM9hovQ "OpenVPN Server raspberry pi /w PiVPN")
