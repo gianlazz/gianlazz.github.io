@@ -48,3 +48,5 @@ Of course I can always add it in later if I so please and actually at the time o
 [https://github.com/rak8s/rak8s](https://github.com/rak8s/rak8s "https://github.com/rak8s/rak8s")
 
 [rak8s.io: Stand up a Raspberry Pi based Kubernetes cluster with Ansible](https://rak8s.io "https://rak8s.io")
+
+[Ansible playbooks for setting up a Kubernetes Raspberry Pi 3 cluster github.com](https://github.com/Project31/ansible-kubernetes-openshift-pi3 "https://github.com/Project31/ansible-kubernetes-openshift-pi3")
