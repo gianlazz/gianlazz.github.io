@@ -44,7 +44,7 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 
 11) sudo ssh pi@192.168.0.6
 
-12) DISABLE SWAP
+12) DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
 
     sudo su
 
@@ -54,7 +54,29 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 
     update-rc.d dphys-swapfile remove
 
-13)
+    sudo nano /boot/cmdline
+
+        cgroup_enable=cpuset cgroup_enable=memory
+
+        ctrl + X
+
+        yes
+
+        yes
+
+    exit
+
+    sudo ssh pi@192.168.0.6
+
+13) INSTALL KUBERNETES
+
+    curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add - && \\
+
+        echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && \\
+
+        sudo apt-get update -q && \\
+
+        sudo apt-get install -qy kubeadm
 
 [https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi](https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi "https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi")
 
