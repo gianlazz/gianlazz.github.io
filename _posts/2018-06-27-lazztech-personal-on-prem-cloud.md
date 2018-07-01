@@ -41,6 +41,8 @@ I'll be foregoing the popular route of the installing OpenFaas to setup server l
 
 Of course I can always add it in later if I so please and actually at the time of writing this article did already load it up and check it out myself for a brief moment.
 
+[https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/](https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/ "https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/")
+
 [https://github.com/rak8s/rak8s](https://github.com/rak8s/rak8s "https://github.com/rak8s/rak8s")
 
 [rak8s.io: Stand up a Raspberry Pi based Kubernetes cluster with Ansible](https://rak8s.io "https://rak8s.io")
