@@ -60,12 +60,12 @@ Of course I can always add it in later if I so please and actually at the time o
 
 [Ansible playbooks for setting up a Kubernetes Raspberry Pi 3 cluster github.com](https://github.com/Project31/ansible-kubernetes-openshift-pi3 "https://github.com/Project31/ansible-kubernetes-openshift-pi3")
 
+Other interesting links:
+
+[https://blog.alexellis.io/gpio-on-swarm/](https://blog.alexellis.io/gpio-on-swarm/ "https://blog.alexellis.io/gpio-on-swarm/")
+
 Automate the build of the image to flash onto the raspberry pi with HashiCorp's Packer tool
 
 [https://www.packer.io](https://www.packer.io "https://www.packer.io")
 
-[https://grafana.com](https://grafana.com "https://grafana.com")
-
-Other interesting links:
-
-[https://blog.alexellis.io/gpio-on-swarm/](https://blog.alexellis.io/gpio-on-swarm/ "https://blog.alexellis.io/gpio-on-swarm/")
+[https://grafana.com](https://www.packer.io "https://www.packer.io")
