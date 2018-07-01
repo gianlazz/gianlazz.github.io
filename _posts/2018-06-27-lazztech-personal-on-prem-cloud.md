@@ -2,7 +2,7 @@
 permalink: "/blog/:title/"
 layout: post
 author: ''
-title: Setting Up A Lazztech Private Cloud
+title: Setting Up A Lazztech Private Cloud With Kubernetes Raspberry Pi Cluster
 date: 2018-06-27 00:00:00 +0000
 excerpt: Raspberry Pi Cloud w/ Docker, Kubernetes & Openfaas
 image: "/uploads/2018/06/28/20180627_225110.jpg"
@@ -37,4 +37,4 @@ nopi
 
 [https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx "https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx")
 
-I'll be foregoing the popular route of the installing OpenFaas to setup server less functions deployment. While I do appreciate the appeal of the server-less architecture as a cloud deployment concept
+I'll be foregoing the popular route of the installing OpenFaas to setup server less functions deployment. While I do appreciate the appeal of the server-less architecture as a cloud deployment concept.
