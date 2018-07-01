@@ -65,3 +65,7 @@ Automate the build of the image to flash onto the raspberry pi with HashiCorp's 
 [https://www.packer.io](https://www.packer.io "https://www.packer.io")
 
 [https://grafana.com](https://grafana.com "https://grafana.com")
+
+Other interesting links:
+
+[https://blog.alexellis.io/gpio-on-swarm/](https://blog.alexellis.io/gpio-on-swarm/ "https://blog.alexellis.io/gpio-on-swarm/")
