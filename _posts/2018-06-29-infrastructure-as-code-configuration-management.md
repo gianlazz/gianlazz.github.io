@@ -8,7 +8,7 @@ date: 2018-06-29 00:00:00 +0000
 excerpt: Consistent, Manageable Devops provisioning for Lazztech Private Cloud
 image: "/uploads/2018/07/01/ansible-kubernetes-770x482.jpg"
 ---
-
+WIP POST BEING USED AS REFERENCE FOR NOTES
 
 My first exposure to infrastructure as code configuration management tools and the powerful utility they offer in managing deployment was during a conversation I had with Tyler Menezes, the Executive Director of SRND as I was asking him how he was able to manage all of SRND's online web presence mostly by himself along with his already busy life.
 
