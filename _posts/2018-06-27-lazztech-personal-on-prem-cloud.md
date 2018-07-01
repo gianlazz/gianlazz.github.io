@@ -30,3 +30,11 @@ nopi
 [http://www.pivpn.io](http://www.pivpn.io "http://www.pivpn.io")
 
 [OpenVPN Server raspberry pi /w PiVPN](https://www.youtube.com/watch?v=WA7QTM9hovQ "OpenVPN Server raspberry pi /w PiVPN")
+
+[https://github.com/oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns "https://github.com/oznu/docker-cloudflare-ddns")
+
+[https://nickjanetakis.com/blog/the-3-biggest-wins-when-using-alpine-as-a-base-docker-image](https://nickjanetakis.com/blog/the-3-biggest-wins-when-using-alpine-as-a-base-docker-image "https://nickjanetakis.com/blog/the-3-biggest-wins-when-using-alpine-as-a-base-docker-image")
+
+[https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx "https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx")
+
+Foregoing 
