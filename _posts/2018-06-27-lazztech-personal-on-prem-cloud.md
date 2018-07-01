@@ -40,3 +40,7 @@ nopi
 I'll be foregoing the popular route of the installing OpenFaas to setup server less functions deployment. While I do appreciate the appeal of the server-less architecture as a cloud deployment concept. It is a bit too high of an abstraction than I'm interested or practiced at working on at this time and would likely serve to add more thought and complexity initially than I'm interested in investing in at this time. Also while I really appreciate the work that they're doing on the OpenFaas project and it seems to have a fairly active developer community it just doesn't have enough development behind if for me to want the added potential overhead of investing in it. I'll definitely be watching to see how the project develops over the coming years.
 
 Of course I can always add it in later if I so please and actually at the time of writing this article did already load it up and check it out myself for a brief moment.
+
+[https://github.com/rak8s/rak8s](https://github.com/rak8s/rak8s "https://github.com/rak8s/rak8s")
+
+[rak8s.io: Stand up a Raspberry Pi based Kubernetes cluster with Ansible](https://rak8s.io "https://rak8s.io")
