@@ -38,7 +38,7 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/introductory-electronics-workshop-w-led-tea-light-candle-kit.md
+- _posts/2018-07-01-introductory-electronics-workshop-w-led-tea-light-candle-kit.md
 - _posts/2018-06-29-infrastructure-as-code-configuration-management.md
 - _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
 - _posts/2018-06-26-toorcamp-2018-srnd-code-evangelism.md
