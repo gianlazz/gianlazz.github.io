@@ -1,7 +1,8 @@
 ---
 permalink: "/blog/:title/"
 layout: post
-author: ''
+author: 'Objective ELI5: I want to run and control my code from anywhere and learn
+  how to set it up myself.'
 title: Setting Up A Lazztech Private Cloud With A Kubernetes Raspberry Pi Cluster
 date: 2018-06-27 00:00:00 +0000
 excerpt: Raspberry Pi Cloud w/ Docker, Kubernetes & Openfaas
