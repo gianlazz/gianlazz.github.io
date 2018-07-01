@@ -82,6 +82,8 @@ Looks like you'll need to downgrade docker to get this working:
 
 sudo apt-get install -y docker-ce=18.04.0\~ce\~3-0\~raspbian --allow-downgrades
 
+Then you should be able to get sudo kubeadm init --token-ttl=0 working
+
 cgroup_memory missing issue:
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
