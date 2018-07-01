@@ -16,6 +16,46 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
+1) FLASH RASPBIEN LITE
+
+2) cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
+
+3) Install sd card, ethernet and power to the pi to boot it up
+
+4) ifconfig | grep broadcast && arp -a
+
+5) sudo ssh pi@192.168.0.6
+
+6) sudo raspi-config > Network Options > N1 Hostname > raspberrypi1 
+
+    THEN, Advanced Options > Memory Split > 16
+
+    THEN, Change User Passsword > Finish > Reboot
+
+7) sudo ssh pi@192.168.0.6
+
+8) sudo curl -sSL get.docker.com | sh
+
+9) sudo usermod pi -aG docker
+
+10) SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+
+    type "exit" then hit enter
+
+11) sudo ssh pi@192.168.0.6
+
+12) DISABLE SWAP
+
+    sudo su
+
+    dphys-swapfile swapoff
+
+    dphys-swapfile uninstall
+
+    update-rc.d dphys-swapfile remove
+
+13)
+
 [https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi](https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi "https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi")
 
 [https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen](https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen "https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen")
