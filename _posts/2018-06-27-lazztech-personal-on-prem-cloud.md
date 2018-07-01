@@ -25,7 +25,7 @@ cloud flare ddns with code to turn their dns into ddns
 
 nopi
 
-[https://www.youtube.com/watch?v=gcCCJnzKBRs](https://www.youtube.com/watch?v=gcCCJnzKBRs "https://www.youtube.com/watch?v=gcCCJnzKBRs")
+[How To using vpn + no-ip ddns](https://www.youtube.com/watch?v=gcCCJnzKBRs "https://www.youtube.com/watch?v=gcCCJnzKBRs")
 
 [http://www.pivpn.io](http://www.pivpn.io "http://www.pivpn.io")
 
