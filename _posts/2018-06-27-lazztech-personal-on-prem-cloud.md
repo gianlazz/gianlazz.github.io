@@ -7,6 +7,8 @@ date: 2018-06-27 00:00:00 +0000
 excerpt: Raspberry Pi Cloud w/ Docker, Kubernetes & Openfaas
 image: "/uploads/2018/06/28/20180627_225110.jpg"
 ---
+Objective ELI5: I want to run and control my code from anywhere and learn how to set it up myself.
+
 [https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi](https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi "https://howchoo.com/g/ndg2mtbmnmn/how-to-install-raspbian-stretch-on-the-raspberry-pi")
 
 [https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen](https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen "https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen")
@@ -54,3 +56,5 @@ Of course I can always add it in later if I so please and actually at the time o
 Automate the build of the image to flash onto the raspberry pi with HashiCorp's Packer tool
 
 [https://www.packer.io](https://www.packer.io "https://www.packer.io")
+
+[https://grafana.com](https://grafana.com "https://grafana.com")
