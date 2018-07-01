@@ -16,7 +16,7 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
-1) FLASH RASPBIEN LITE
+1) FLASH RASPBIAN LITE
 
 2) cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
 
