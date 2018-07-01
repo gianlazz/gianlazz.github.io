@@ -78,6 +78,10 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 
         sudo apt-get install -qy kubeadm
 
+Looks like you'll need to downgrade docker to get this working:
+
+sudo apt-get install -y docker-ce=18.04.0\~ce\~3-0\~raspbian --allow-downgrades
+
 cgroup_memory missing issue:
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
