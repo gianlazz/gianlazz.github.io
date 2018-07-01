@@ -109,3 +109,7 @@ Automate the build of the image to flash onto the raspberry pi with HashiCorp's 
 [https://www.packer.io](https://www.packer.io "https://www.packer.io")
 
 [https://grafana.com](https://www.packer.io "https://www.packer.io")
+
+[https://www.ebay.com/p/Mikrotik-Hap-Lite-RouterBoard-Rb941-2nd-Wireless-N-4xport-Router-RouterOS-L4/1442141958?iid=173237597174&chn=ps](https://www.ebay.com/p/Mikrotik-Hap-Lite-RouterBoard-Rb941-2nd-Wireless-N-4xport-Router-RouterOS-L4/1442141958?iid=173237597174&chn=ps "https://www.ebay.com/p/Mikrotik-Hap-Lite-RouterBoard-Rb941-2nd-Wireless-N-4xport-Router-RouterOS-L4/1442141958?iid=173237597174&chn=ps")
+
+[https://www.hootoo.com/hootoo-tripmate-ht-tm05-wireless-router.html](https://www.hootoo.com/hootoo-tripmate-ht-tm05-wireless-router.html "https://www.hootoo.com/hootoo-tripmate-ht-tm05-wireless-router.html")
