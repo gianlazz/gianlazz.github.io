@@ -37,4 +37,4 @@ nopi
 
 [https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx "https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx")
 
-Foregoing 
+I'll be foregoing the popular route of the installing OpenFaas to setup server less functions deployment. While I do appreciate the appeal of the server-less architecture as a cloud deployment concept
