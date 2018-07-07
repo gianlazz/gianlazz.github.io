@@ -21,9 +21,7 @@ During the installation process to setup a Rasberry Pi distributed computing clu
 </div>
 <div class="6u">
 <div align="center">
-  
-![alt text](/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg "Logo Title Text 1")
-
+<img src="/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg" alt="Comment Screenshot">
 </div>
 </div>
 </div>
