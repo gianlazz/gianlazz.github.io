@@ -16,35 +16,24 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
-1) FLASH RASPBIAN LITE
-
-2) cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
-
-3) Install sd card, ethernet and power to the pi to boot it up
-
-4) ifconfig | grep broadcast && arp -a
-
-5) sudo ssh pi@192.168.0.6
-
-6) sudo raspi-config > Network Options > N1 Hostname > raspberrypi1 
+ 1. FLASH RASPBIAN LITE
+ 2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
+ 3. Install sd card, ethernet and power to the pi to boot it up
+ 4. ifconfig | grep broadcast && arp -a
+ 5. sudo ssh pi@192.168.0.6
+ 6. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
 
     THEN, Advanced Options > Memory Split > 16
 
     THEN, Change User Passsword > Finish > Reboot
-
-7) sudo ssh pi@192.168.0.6
-
-8) sudo curl -sSL get.docker.com | sh
-
-9) sudo usermod pi -aG docker
-
-10) SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+ 7. sudo ssh pi@192.168.0.6
+ 8. sudo curl -sSL get.docker.com | sh
+ 9. sudo usermod pi -aG docker
+10. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
 
     type "exit" then hit enter
-
-11) sudo ssh pi@192.168.0.6
-
-12) DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
+11. sudo ssh pi@192.168.0.6
+12. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
 
     sudo su
 
@@ -57,25 +46,24 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
     sudo nano /boot/cmdline
 
         cgroup_enable=cpuset cgroup_enable=memory
-
+        
         ctrl + X
-
+        
         yes
-
+        
         yes
 
     exit
 
     sudo ssh pi@192.168.0.6
-
-13) INSTALL KUBERNETES
+13. INSTALL KUBERNETES
 
     curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add - && \\
 
         echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && \\
-
+        
         sudo apt-get update -q && \\
-
+        
         sudo apt-get install -qy kubeadm
 
 Looks like you'll need to downgrade docker to get this working:
@@ -85,6 +73,8 @@ sudo apt-get install -y docker-ce=18.04.0\~ce\~3-0\~raspbian --allow-downgrades
 Then you should be able to get sudo kubeadm init --token-ttl=0 working
 
 cgroup_memory missing issue:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
 
