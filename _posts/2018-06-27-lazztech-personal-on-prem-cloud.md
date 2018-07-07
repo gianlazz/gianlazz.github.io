@@ -15,6 +15,19 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
+<div class="row">
+<div class="6u">
+During the installation process to setup a Rasberry Pi distributed computing cluster with Kubernetes I ran into a number of issues caused by updates to dependencies from the tutorials I found. After banging my head against the problem for a while I ended up commenting and shortly later had replies from others that had run into the same problems.
+</div>
+<div class="6u">
+<div align="center">
+  
+![alt text](/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg "Logo Title Text 1")
+
+</div>
+</div>
+</div>
+
  1. FLASH RASPBIAN LITE
  2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
  3. Install sd card, ethernet and power to the pi to boot it up
@@ -73,7 +86,6 @@ Then you should be able to get sudo kubeadm init --token-ttl=0 working
 
 cgroup_memory missing issue:
 
-![alt text](/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg "Logo Title Text 1")
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
 
