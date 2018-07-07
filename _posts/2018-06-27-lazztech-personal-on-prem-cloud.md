@@ -34,6 +34,8 @@ During the installation process to setup a Rasberry Pi distributed computing clu
 
 ### Installation Steps
 
+INITIAL FAILED INSTALL STEPS HERE FOR NOTES WHILE UPDATING STEPS
+
  1. FLASH RASPBIAN LITE
  2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
  3. Install sd card, ethernet and power to the pi to boot it up
