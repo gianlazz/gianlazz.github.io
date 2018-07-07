@@ -74,7 +74,7 @@ Then you should be able to get sudo kubeadm init --token-ttl=0 working
 
 cgroup_memory missing issue:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg "Logo Title Text 1")
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
 
