@@ -15,7 +15,9 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
-<div class="row"> <div class="6u"> I read through probably about a dozen different articles and half a dozen different videos documenting all the different varying approaches to setting up a rasberry pi distributed computing cluster with either Kubernetes or Docker Swarm. By the end I'd concluded that by far the best maintained tutorial documenting how to do this was this link here: <div markdown="1">
+<div class="row"> <div class="6u"> I read through probably about a dozen different articles and half a dozen different videos documenting all the different varying approaches to setting up a rasberry pi distributed computing cluster with either Kubernetes or Docker Swarm. By the end I'd concluded that by far the best maintained tutorial documenting how to do this was this link here: 
+
+<div markdown="1">
 [alexellis/k8s-pi.md github gist](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975 "https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975")
 </div>
 
