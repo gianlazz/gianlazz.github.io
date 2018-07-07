@@ -15,7 +15,7 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
-<div class="row"> <div class="6u"> I read through probably about a dozen different articles and half a dozen different videos documenting all the different varying approaches to setting up a rasberry pi distributed computing cluster with either Kubernetes or Docker Swarm. 
+<div class="row"> <div class="6u"> I read through probably about a dozen different articles and half a dozen different videos documenting all the different varying approaches to setting up a rasberry pi distributed computing cluster with either Kubernetes or Docker Swarm.
 
 <div markdown="1">
 
@@ -34,7 +34,71 @@ During the installation process to setup a Rasberry Pi distributed computing clu
 </div>
 </div>
 
+Notice, YMMV as this is all very dependency version dependent and a few weeks, months or so in the future as new versions of all the dependencies are released the install and setup process may change wildly. 
+
+Here's the installation dependencies I'm working with as of writing this post:
+
+* 2x Raspberry Pi 3
+* 1x 16gb Sandisk (SD cards are mismatched because that's what I had)
+* 1x 32gb Sandisk
+* 2018-06-27-raspbian-stretch-lite.img
+* Rasbian is flashed with "Etcher" by resin.io
+* Anker 6 Port USB PSU
+* Internet over ethernet
+
 ### Installation Steps
+
+##### This also accounts for the dependency downgrades to fix the tutorial
+
+ 1. FLASH RASPBIAN LITE
+ 2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
+ 3. Install sd card, ethernet and power to the pi to boot it up
+ 4. ifconfig | grep broadcast && arp -a
+ 5. sudo ssh pi@192.168.0.6
+ 6. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
+
+    THEN, Advanced Options > Memory Split > 16
+
+    THEN, Change User Passsword > Finish > Reboot
+ 7. sudo ssh pi@192.168.0.6
+ 8. sudo curl -sSL get.docker.com | sh
+ 9. sudo usermod pi -aG docker
+10. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+
+    type "exit" then hit enter
+11. sudo ssh pi@192.168.0.6
+12. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
+
+    sudo su
+
+    dphys-swapfile swapoff
+
+    dphys-swapfile uninstall
+
+    update-rc.d dphys-swapfile remove
+
+    sudo nano /boot/cmdline
+
+        cgroup_enable=cpuset cgroup_enable=memory
+        
+        ctrl + X
+        
+        yes
+        
+        yes
+
+    exit
+
+    sudo ssh pi@192.168.0.6
+13. INSTALL KUBERNETES
+
+    curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && \\
+
+        echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && \\
+        
+        sudo apt-get update -q && \\
+        
+        sudo apt-get install -qy kubeadm
 
 INITIAL FAILED INSTALL STEPS HERE FOR NOTES WHILE UPDATING STEPS
 
