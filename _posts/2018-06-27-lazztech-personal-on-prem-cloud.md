@@ -15,8 +15,8 @@ Services like Azure and other cloud offerings are so frequently such a high abst
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
 
-<div class="row">
-<div class="6u">
+<div class="row"> <div class="6u"> I read through probably about a dozen different articles and half a dozen different videos documenting all the different varying approaches to setting up a rasberry pi distributed computing cluster with either Kubernetes or Docker Swarm. By the end I'd concluded that by far the best maintained tutorial documenting how to do this was this link here: [alexellis/k8s-pi.md github gist](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975 "https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975")
+
 During the installation process to setup a Rasberry Pi distributed computing cluster with Kubernetes I ran into a number of issues caused by updates to dependencies from the tutorials I found. After banging my head against the problem for a while I ended up commenting and shortly later had replies from others that had run into the same problems.
 </div>
 <div class="6u">
@@ -25,6 +25,8 @@ During the installation process to setup a Rasberry Pi distributed computing clu
 </div>
 </div>
 </div>
+
+### Installation Steps
 
  1. FLASH RASPBIAN LITE
  2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
@@ -83,7 +85,6 @@ sudo apt-get install -y docker-ce=18.04.0\~ce\~3-0\~raspbian --allow-downgrades
 Then you should be able to get sudo kubeadm init --token-ttl=0 working
 
 cgroup_memory missing issue:
-
 
 [https://github.com/moby/moby/issues/35587](https://github.com/moby/moby/issues/35587 "https://github.com/moby/moby/issues/35587")
 
