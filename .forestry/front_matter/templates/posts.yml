@@ -38,17 +38,17 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/2018-07-01-introductory-electronics-workshop-w-led-tea-light-candle-kit.md
-- _posts/2018-06-29-infrastructure-as-code-configuration-management.md
-- _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
-- _posts/2018-06-26-toorcamp-2018-srnd-code-evangelism.md
-- _posts/2018-06-02-deploying-hackathonhandler-com-at-codeday-eastside-2018.md
 - _posts/exposing-q-quantum-computing-as-a-subject.md
-- _drafts/_posts/exploring-angular-graphql-mentor-manager.md
-- _drafts/_posts/2018-04-30-c-mongodb-driver-2-6-0-nuget-causing-system-runtime-missing-issues-solution.md
-- _drafts/_posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
-- _posts/2018-06-12-electron-netcore-2-0-webapi-w-kestrel-server-backend-bundled.md
 - _posts/2018-05-08-simple-attiny85-led-driver-prototype-w-buck-converter-dc-dc-psu-build-timelapse.md
-- _posts/2018-02-26-pseudo-telepathy-with-sub-vocal-speech-recognition.md
+- _posts/2018-06-12-electron-netcore-2-0-webapi-w-kestrel-server-backend-bundled.md
+- _drafts/_posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md
+- _drafts/_posts/2018-04-30-c-mongodb-driver-2-6-0-nuget-causing-system-runtime-missing-issues-solution.md
+- _drafts/_posts/exploring-angular-graphql-mentor-manager.md
+- _posts/2018-06-29-infrastructure-as-code-configuration-management.md
+- _posts/2018-06-02-deploying-hackathonhandler-com-at-codeday-eastside-2018.md
+- _posts/2018-06-26-toorcamp-2018-srnd-code-evangelism.md
+- _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
+- _posts/2018-07-01-introductory-electronics-workshop-w-led-tea-light-candle-kit.md
 - _posts/2018-05-30-tasted-wizardry-coding-multi-threaded-backend-smsrouting-daemon.md
+- _posts/2018-02-26-pseudo-telepathy-with-sub-vocal-speech-recognition.md
 - _posts/2018-03-05-indoor-high-efficiency-urban-farming-gardening-solutions.md
