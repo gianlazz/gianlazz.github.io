@@ -21,7 +21,7 @@ During the installation process to setup a Rasberry Pi distributed computing clu
 </div>
 <div class="6u">
 <div align="center">
-<img src="/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg" alt="Comment Screenshot" height="20%" width="20%">
+<img src="/uploads/2018/07/07/Screenshot_20180703-094001_Chrome.jpg" alt="Comment Screenshot" height="55%" width="55%">
 </div>
 </div>
 </div>
