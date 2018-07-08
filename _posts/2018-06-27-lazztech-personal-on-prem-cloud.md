@@ -100,7 +100,8 @@ Pi Cluster setup:
     2. sudo ssh pi@192.168.0.6
 17. Install Kubernetes v1.9.7-00
     1. curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && echo "deb [http://apt.kubernetes.io/](http://apt.kubernetes.io/ "http://apt.kubernetes.io/") kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && sudo apt-get update -q && sudo apt-get install -qy kubelet=1.9.7-00 kubectl=1.9.7-00 kubeadm=1.9.7-00
-18. sudo kubeadm init --token-ttl=0 --apiserver-advertise-address=192.168.0.100 --ignore-preflight-errors=ALL
+18. Initialize Kubernetes(Can take up to 15 mins)
+    1. sudo kubeadm init --token-ttl=0 --apiserver-advertise-address=192.168.0.100 --ignore-preflight-errors=ALL
 
 INITIAL FAILED INSTALL STEPS HERE FOR NOTES WHILE UPDATING STEPS
 
