@@ -103,6 +103,8 @@ Pi Cluster setup:
 18. Initialize Kubernetes(Can take 15 mins or much longer depending)
     1. sudo kubeadm init --token-ttl=0 --apiserver-advertise-address=192.168.0.100 --ignore-preflight-errors=ALL
 
+Other interesting links and notes:
+
 Looks like you'll need to downgrade docker to get this working:
 
 sudo apt-get install -y docker-ce=18.04.0\~ce\~3-0\~raspbian --allow-downgrades
@@ -156,8 +158,6 @@ Of course I can always add it in later if I so please and actually at the time o
 [rak8s.io: Stand up a Raspberry Pi based Kubernetes cluster with Ansible](https://rak8s.io "https://rak8s.io")
 
 [Ansible playbooks for setting up a Kubernetes Raspberry Pi 3 cluster github.com](https://github.com/Project31/ansible-kubernetes-openshift-pi3 "https://github.com/Project31/ansible-kubernetes-openshift-pi3")
-
-Other interesting links:
 
 [https://blog.alexellis.io/gpio-on-swarm/](https://blog.alexellis.io/gpio-on-swarm/ "https://blog.alexellis.io/gpio-on-swarm/")
 
