@@ -38,6 +38,14 @@ Notice, YMMV as this is all very dependency version dependent and a few weeks, m
 
 Here's the installation dependencies I'm working with as of writing this post:
 
+Installation and setup machine:
+
+* MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+* macOS High Sierra 10.13.3
+* Hyperdrive Usb C Hub with Micro Sd card slot
+
+Pi Cluster setup:
+
 * 2x Raspberry Pi 3
 * 1x 16gb Sandisk (SD cards are mismatched because that's what I had)
 * 1x 32gb Sandisk
@@ -51,23 +59,24 @@ Here's the installation dependencies I'm working with as of writing this post:
 ##### This also accounts for the dependency downgrades to fix the tutorial
 
  1. FLASH RASPBIAN LITE
- 2. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
- 3. Install sd card, ethernet and power to the pi to boot it up
- 4. ifconfig | grep broadcast && arp -a
- 5. sudo ssh pi@192.168.0.6
- 6. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
+ 2. Eject and reinsert
+ 3. cd /Volumes/boot && touch ssh && cd .. && diskutil unmount /boot
+ 4. Install sd card, ethernet and power to the pi to boot it up
+ 5. ifconfig | grep broadcast && arp -a
+ 6. sudo ssh pi@192.168.0.6
+ 7. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
 
     THEN, Advanced Options > Memory Split > 16
 
     THEN, Change User Passsword > Finish > Reboot
- 7. sudo ssh pi@192.168.0.6
- 8. sudo curl -sSL get.docker.com | sh
- 9. sudo usermod pi -aG docker
-10. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+ 8. sudo ssh pi@192.168.0.6
+ 9. sudo curl -sSL get.docker.com | sh
+10. sudo usermod pi -aG docker
+11. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
 
     type "exit" then hit enter
-11. sudo ssh pi@192.168.0.6
-12. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
+12. sudo ssh pi@192.168.0.6
+13. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
 
     sudo su
 
@@ -90,7 +99,7 @@ Here's the installation dependencies I'm working with as of writing this post:
     exit
 
     sudo ssh pi@192.168.0.6
-13. INSTALL KUBERNETES
+14. INSTALL KUBERNETES
 
     curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && \\
 
