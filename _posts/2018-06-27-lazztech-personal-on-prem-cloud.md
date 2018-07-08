@@ -52,7 +52,7 @@ Pi Cluster setup:
 * 2018-06-27-raspbian-stretch-lite.img
 * Rasbian is flashed with "Etcher" by resin.io
 * Anker 6 Port USB PSU
-* Internet over ethernet
+* Internet over ethernet directly into router switch ports
 
 ### Installation Steps
 
