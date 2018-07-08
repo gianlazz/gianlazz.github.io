@@ -91,29 +91,15 @@ Pi Cluster setup:
         sudo dphys-swapfile swapoff && \
           sudo dphys-swapfile uninstall && \
           sudo update-rc.d dphys-swapfile remove
-
-    sudo nano /boot/cmdline
-
-        cgroup_enable=cpuset cgroup_enable=memory
-        
-        ctrl + X
-        
-        yes
-        
-        yes
-
-    exit
-
-    sudo ssh pi@192.168.0.6
-15. INSTALL KUBERNETES
-
-    curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && \\
-
-        echo "deb http://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && \\
-        
-        sudo apt-get update -q && \\
-        
-        sudo apt-get install -qy kubeadm
+15. Edit /boot/cmdline
+    1. sudo`nano /boot/cmdline`
+    2. past in: cgroup_enable=cpuset cgroup_enable=memory cgroup_memory=1
+    3. ctrl+x
+16. Sign out and back in
+    1. exit
+    2. sudo ssh pi@192.168.0.6
+17. Install Kubernetes v1.9.7-00
+    1. curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && echo "deb [http://apt.kubernetes.io/](http://apt.kubernetes.io/ "http://apt.kubernetes.io/") kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list && sudo apt-get update -q && sudo apt-get install -qy kubelet=1.9.7-00 kubectl=1.9.7-00 kubeadm=1.9.7-00
 
 INITIAL FAILED INSTALL STEPS HERE FOR NOTES WHILE UPDATING STEPS
 
