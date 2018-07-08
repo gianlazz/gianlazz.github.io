@@ -83,19 +83,14 @@ Pi Cluster setup:
 10. sudo ssh pi@192.168.0.6
 11. sudo curl -sSL get.docker.com | sh
 12. sudo usermod pi -aG docker
-13. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+13. Sign out and and back into ssh to enable docker user with admin
+    1. type "exit" then hit enter
+    2. sudo ssh pi@192.168.0.6
+14. Disable swap for kubernetes
 
-    type "exit" then hit enter
-14. sudo ssh pi@192.168.0.6
-15. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
-
-    sudo su
-
-    dphys-swapfile swapoff
-
-    dphys-swapfile uninstall
-
-    update-rc.d dphys-swapfile remove
+        sudo dphys-swapfile swapoff && \
+          sudo dphys-swapfile uninstall && \
+          sudo update-rc.d dphys-swapfile remove
 
     sudo nano /boot/cmdline
 
@@ -110,7 +105,7 @@ Pi Cluster setup:
     exit
 
     sudo ssh pi@192.168.0.6
-16. INSTALL KUBERNETES
+15. INSTALL KUBERNETES
 
     curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && \\
 
