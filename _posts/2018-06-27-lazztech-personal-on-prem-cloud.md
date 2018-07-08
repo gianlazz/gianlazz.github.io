@@ -73,7 +73,13 @@ Pi Cluster setup:
     1. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
     2. THEN, Advanced Options > Memory Split > 16
     3. THEN, Change User Passsword > Finish > Reboot
- 9. 
+ 9. Set a static IP address
+    1. cat >> /etc/dhcpcd.conf
+    2. `profile static_eth0
+       static ip_address=192.168.0.100/24
+       static routers=192.168.0.1
+       static domain_name_servers=8.8.8.8`
+    3. ctrl+d
 10. sudo ssh pi@192.168.0.6
 11. sudo curl -sSL get.docker.com | sh
 12. sudo usermod pi -aG docker
