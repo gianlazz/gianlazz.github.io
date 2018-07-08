@@ -65,19 +65,23 @@ Pi Cluster setup:
  4. Install sd card, ethernet and power to the pi to boot it up
  5. ifconfig | grep broadcast && arp -a
  6. sudo ssh pi@192.168.0.6
- 7. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
-
-    THEN, Advanced Options > Memory Split > 16
-
-    THEN, Change User Passsword > Finish > Reboot
- 8. sudo ssh pi@192.168.0.6
- 9. sudo curl -sSL get.docker.com | sh
-10. sudo usermod pi -aG docker
-11. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
+    1. password: raspberry
+ 7. sudo nano /boot/cmdline.txt
+    1. paste to the end: cgroup_enable=cpuset cgroup_enable=memory cgroup_memory=1
+    2. ctrl+x
+ 8.  Change hostname
+    1. sudo raspi-config > Network Options > N1 Hostname > raspberrypi1
+    2. THEN, Advanced Options > Memory Split > 16
+    3. THEN, Change User Passsword > Finish > Reboot
+ 9. 
+10. sudo ssh pi@192.168.0.6
+11. sudo curl -sSL get.docker.com | sh
+12. sudo usermod pi -aG docker
+13. SIGN OUT OF SSH AFTER THIS AND BACK IN TO SSH TO ENABLE TO RUN AS ROOT
 
     type "exit" then hit enter
-12. sudo ssh pi@192.168.0.6
-13. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
+14. sudo ssh pi@192.168.0.6
+15. DISABLE SWAP FOR KUBERNETES TO RUN PROPERLY
 
     sudo su
 
@@ -100,7 +104,7 @@ Pi Cluster setup:
     exit
 
     sudo ssh pi@192.168.0.6
-14. INSTALL KUBERNETES
+16. INSTALL KUBERNETES
 
     curl -s [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg "https://packages.cloud.google.com/apt/doc/apt-key.gpg") | sudo apt-key add - && \\
 
