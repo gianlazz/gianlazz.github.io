@@ -2,11 +2,12 @@
 permalink: "/blog/:title/"
 layout: post
 author: ''
-title: Deploying Private VPN Server with OpenVPN and Docker to Raspberry Pi
+title: Deploying Private VPN Server with OpenVPN, DDNS & Docker to Raspberry Pi
 date: 2018-07-08 00:00:00 +0000
 excerpt: ''
-image: ''
+image: "/uploads/2018/07/09/openvpn_logo.png"
 ---
+In my previous post I talked about setting up my private cloud with a Raspberry Pi Cluster. 
 
 #### Installation Resources
 
@@ -17,3 +18,5 @@ image: ''
 #### Wireguard VPN Mention
 
 [https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/](https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/ "https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/")
+
+#### DDNS
