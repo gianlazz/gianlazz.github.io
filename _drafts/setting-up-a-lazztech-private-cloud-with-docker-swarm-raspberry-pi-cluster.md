@@ -24,6 +24,7 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 * Host a private VPN server
 * Host a server to update Cloudflare's dns to hack together my own free DDNS
 * Move away from depending on highly abstracted cloud hosting services like Azure and learn the Devops provisioning skills to avoid the slippery slope of vendor lock in that comes from relying on those high level hosting abstractions
+* Learn about more about "Serverless" cloud architecture with tools like OpenFaas
 
 #### Docker
 
