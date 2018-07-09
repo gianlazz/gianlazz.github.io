@@ -14,3 +14,10 @@ Objective ELI5: I want to run and control my code from anywhere and learn how to
 Services like Azure and other cloud offerings are so frequently such a high abstraction over what actually is going on that it can leave a user wondering what all is involved and how can someone setup a relatively reliable private "Cloud" of their own?
 
 Lets assume that by Cloud, we just mean a system architecture above just individual server hosting on a single machine by allowing for dynamic horizontal scaling of computing instances across cluster of different computers providing system failure redundancy. This also orchestrates more easy utilization of computing resources by interconnecting them and allowing for self managing of execution across the machines.
+
+#### Desired Use-cases:
+
+* Host more of my own code deployments from websites to rest apis for custom code
+* Manage IOT Devices such as the ESP8266 and host a HomeAsssistant server
+* Learn about Devops, docker, cluster computing, Infrastructure as code etc
+* To have a reliable hardware interface to write REST Api servers to interface against any hardware peripherals I may want in my own personal cloud
