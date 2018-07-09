@@ -26,7 +26,9 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 
 #### Containerized Deployment & Docker
 
-Everyone's moving more and more towards containerized deployment 
+Everyone's moving more and more towards containerized deployment. This allows more scriptable, and predictable development environments and also makes deployment to any server that can host docker containers very straight forward. Contianerizing your projects also allow you to avoid conflicting dependency versions and ensure that things like path variables and such are always in the desired state by developing in a container.
+
+You also can save money on licensing as docker uses your host OS and simply contains it's resources inside so you don't have to pay for a Windows license for every VM you simply pay for the host and have as many containers as you like.
 
 #### Microservices Architecture vs Monoliths and Service Oriented Architecture
 
