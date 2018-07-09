@@ -17,6 +17,8 @@ In my previous post I talked about setting up my private cloud with a Raspberry 
 
 #### Wireguard VPN Mention
 
+Wireguard a newer open source VPN that seems to be leagues ahead of OpenVPN in performance and is definitely with checking out however, for myself I'll leave this for a later time as it's slightly less documented.
+
 [https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/](https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/ "https://www.ckn.io/blog/2017/12/28/wireguard-vpn-portable-raspberry-pi-setup/")
 
 #### DDNS
