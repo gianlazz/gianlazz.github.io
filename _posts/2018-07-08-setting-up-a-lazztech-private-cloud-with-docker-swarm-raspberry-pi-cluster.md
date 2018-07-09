@@ -38,10 +38,14 @@ Another trend that has been in place now for a while that is largely being facil
 
 Running a distributed computer cluster where you want everything to work together and plan to deploy your work with containers requires a "Container Orchestrator" and the two most popular that also supports the raspberry pi's Arm architecture are Kubernetes and Docker Swarm.
 
- I'll ultimately be ending up with Kubernetes as it has much more sophisticated however after a couple of weekend trying to get it setup and running into a myriad of dependency updates that had broken the tutorial I ended up with using Docker Swarm. I found setting up the Docker Swarm to be a largely painless process in comparison and honestly I think it's not a bad place for myself as beginner to start since ultimately I want to focus on actually building a deploying things and not to spend all of my time up front banging my head against Kubernetes.
+I'll ultimately be ending up with Kubernetes as it has much more sophisticated however after a couple of weekend trying to get it setup and running into a myriad of dependency updates that had broken the tutorial I ended up with using Docker Swarm. I found setting up the Docker Swarm to be a largely painless process in comparison and honestly I think it's not a bad place for myself as beginner to start since ultimately I want to focus on actually building a deploying things and not to spend all of my time up front banging my head against Kubernetes.
 
 By opting for docker swarm I'm able to grow my skillset and learn about docker along the way which will eventually make managing a more sophisticated Container Orchestrator like Kubernetes much more natural.
 
 #### PicoCluster
 
 I opted to purchase the Pico 3S from picocluster.com to house my raspberry pi cluster as I really appreciate the totally self contained enclosure requiring only one power outlet and one ethernet port into your modem due to the build in ethernet switch. This will make transporting the cluster much more easy if need be and hopefully encourage me to use and maintain as it'll be much less unwieldy than a wad of raspberry pi's, wires, psu, and ethernet switch to have to setup and hide.
+
+#### Resources on setting up your own:
+
+[https://howchoo.com/g/njy4zdm3mwy/how-to-run-a-raspberry-pi-cluster-with-docker-swarm](https://howchoo.com/g/njy4zdm3mwy/how-to-run-a-raspberry-pi-cluster-with-docker-swarm "https://howchoo.com/g/njy4zdm3mwy/how-to-run-a-raspberry-pi-cluster-with-docker-swarm")
