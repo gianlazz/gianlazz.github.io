@@ -48,6 +48,7 @@ pages:
 - _posts/2018-06-26-toorcamp-2018-srnd-code-evangelism.md
 - _posts/raspberry-pi-usb-webcam-ip-camera-server.md
 - _posts/2018-07-08-setting-up-a-lazztech-private-cloud-with-docker-swarm-raspberry-pi-cluster.md
+- _posts/deploying-private-vpn-server-with-openvpn-and-docker-to-raspberry-pi.md
 - _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
 - _posts/2018-06-29-infrastructure-as-code-configuration-management.md
 - _posts/2018-07-01-introductory-electronics-workshop-w-led-tea-light-candle-kit.md
