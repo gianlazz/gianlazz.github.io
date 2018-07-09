@@ -21,6 +21,9 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 * Manage IOT Devices such as the ESP8266 and host a HomeAsssistant server
 * Learn about Devops, docker, cluster computing, Infrastructure as code etc
 * To have a reliable hardware interface to write REST Api servers to interface against any hardware peripherals I may want in my own personal cloud
+* Host a private VPN server
+* Host a server to update Cloudflare's dns to hack together my own free DDNS
+* Move away from depending on highly abstracted cloud hosting services like Azure and learn the Devops provisioning skills to avoid the slippery slope of vendor lock in that comes from relying on those high level hosting abstractions
 
 #### Docker
 
