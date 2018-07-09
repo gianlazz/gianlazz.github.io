@@ -16,3 +16,7 @@ image: "/uploads/2018/07/09/20180708_170756.jpg"
 [https://pimylifeup.com/raspberry-pi-webcam-server/](https://pimylifeup.com/raspberry-pi-webcam-server/ "https://pimylifeup.com/raspberry-pi-webcam-server/")
 
 [https://www.raspberrypi.org/forums/viewtopic.php?t=125597](https://www.raspberrypi.org/forums/viewtopic.php?t=125597 "https://www.raspberrypi.org/forums/viewtopic.php?t=125597")
+
+[https://www.youtube.com/watch?v=4rfGc8WM0vk](https://www.youtube.com/watch?v=4rfGc8WM0vk "https://www.youtube.com/watch?v=4rfGc8WM0vk")
+
+[https://sourceforge.net/projects/mjpg-streamer/](https://sourceforge.net/projects/mjpg-streamer/ "https://sourceforge.net/projects/mjpg-streamer/")
