@@ -26,6 +26,12 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 * Move away from depending on highly abstracted cloud hosting services like Azure and learn the Devops provisioning skills to avoid the slippery slope of vendor lock in that comes from relying on those high level hosting abstractions
 * Learn about more about "Serverless" cloud architecture with open source tools like OpenFaas
 
-#### Docker
+#### Containerized Deployment & Docker
+
+Everyone's moving more and more towards containerized deployment 
+
+#### Microservices Architecture vs Monoliths and Service Oriented Architecture
+
+Another trend that has been in place now for a while that is largely being facilitated by the proliferation of containerized deployment is Microservices. This is something I would like to learn more about as my experience doing .NET Development has pretty much predominately been through the N-Tier / 3-Tier SOA Architecture that results in the traditional "Monoliths".
 
 #### Choosing Docker Swarm vs. Kubernetes Docker Cluster Management
