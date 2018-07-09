@@ -21,3 +21,7 @@ Lets assume that by Cloud, we just mean a system architecture above just individ
 * Manage IOT Devices such as the ESP8266 and host a HomeAsssistant server
 * Learn about Devops, docker, cluster computing, Infrastructure as code etc
 * To have a reliable hardware interface to write REST Api servers to interface against any hardware peripherals I may want in my own personal cloud
+
+#### Docker
+
+#### Choosing Docker Swarm vs. Kubernetes Docker Cluster Management
