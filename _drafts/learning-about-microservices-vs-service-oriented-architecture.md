@@ -24,4 +24,3 @@ Great introductory video to the subject of MicroServices:
 * Historical overview of SOA
 * Outlines many use cases where SOA actually still shines compared to Microservices
 * Outlines business considerations for deciding whether Microservices suite your needs
-* Explains many examples for where Microservices 
