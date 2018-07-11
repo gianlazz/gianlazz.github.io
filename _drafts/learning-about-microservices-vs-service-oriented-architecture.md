@@ -45,3 +45,5 @@ Great introductory video to the subject of MicroServices:
 [https://segment.com/blog/goodbye-microservices/](https://segment.com/blog/goodbye-microservices/ "https://segment.com/blog/goodbye-microservices/")
 
 [https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/](https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/ "https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/")
+
+* The Satire in some of these comment threads are pretty great
