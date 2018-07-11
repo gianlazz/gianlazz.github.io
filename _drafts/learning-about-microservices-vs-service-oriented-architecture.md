@@ -15,7 +15,11 @@ Great introductory video to the subject of MicroServices:
 
 #### .NET & Microservices
 
+[https://www.youtube.com/watch?v=2ooo-igyTrs](https://www.youtube.com/watch?v=2ooo-igyTrs "https://www.youtube.com/watch?v=2ooo-igyTrs")
+
 .NET Microservices: Architecture for Containerized .NET Applications \~300 Pages
+
+[https://aka.ms/microservicesarchitecture/](https://aka.ms/microservicesarchitecture/ "https://aka.ms/microservicesarchitecture/")
 
 [https://aka.ms/microservicesebook/](https://aka.ms/microservicesebook/ "https://aka.ms/microservicesebook/")
 
@@ -30,3 +34,4 @@ Great introductory video to the subject of MicroServices:
 * Historical overview of SOA
 * Outlines many use cases where SOA actually still shines compared to Microservices
 * Outlines business considerations for deciding whether Microservices suite your needs
+* micro services own their own data and the entire architecture results in a BASE persistence as apposed to ACID compliant shared monolithic database across the entire SOA
