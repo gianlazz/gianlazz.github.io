@@ -15,7 +15,11 @@ Great introductory video to the subject of MicroServices:
 
 #### .NET & Microservices
 
-#### (Free Ebook) Microservices vs. Service-Oriented Architecture 
+.NET Microservices: Architecture for Containerized .NET Applications \~300 Pages
+
+[https://aka.ms/microservicesebook/](https://aka.ms/microservicesebook/ "https://aka.ms/microservicesebook/")
+
+#### (Free Ebook) Microservices vs. Service-Oriented Architecture \~50 Pages
 
 [https://www.nginx.com/resources/library/microservices-vs-soa/](https://www.nginx.com/resources/library/microservices-vs-soa/ "https://www.nginx.com/resources/library/microservices-vs-soa/")
 
