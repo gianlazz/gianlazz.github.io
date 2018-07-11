@@ -39,6 +39,7 @@ fields:
   hidden: false
   default: 
 pages:
+- _posts/learning-about-microservices-vs-service-oriented-architecture.md
 - _posts/exposing-q-quantum-computing-as-a-subject.md
 - _posts/2018-05-08-simple-attiny85-led-driver-prototype-w-buck-converter-dc-dc-psu-build-timelapse.md
 - _posts/2018-06-12-electron-netcore-2-0-webapi-w-kestrel-server-backend-bundled.md
