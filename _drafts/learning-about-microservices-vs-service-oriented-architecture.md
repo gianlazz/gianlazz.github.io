@@ -47,3 +47,9 @@ Great introductory video to the subject of MicroServices:
 [https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/](https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/ "https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/")
 
 * The Satire in some of these comment threads are pretty great
+
+" Almost as if a law was coined in the 1960's
+
+> Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
+
+[https://en.wikipedia.org/wiki/Conway%27s_law](https://en.wikipedia.org/wiki/Conway%27s_law "https://en.wikipedia.org/wiki/Conway%27s_law") " -redditor
