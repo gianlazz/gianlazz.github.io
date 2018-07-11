@@ -23,8 +23,6 @@ Great introductory video to the subject of MicroServices:
 
 [https://www.nginx.com/resources/library/microservices-vs-soa/](https://www.nginx.com/resources/library/microservices-vs-soa/ "https://www.nginx.com/resources/library/microservices-vs-soa/")
 
-![](/uploads/2018/07/11/ebk-ORM-MicroservicesSOA-ipad-350x500.png)
-
 * Historical overview of SOA
 * Outlines many use cases where SOA actually still shines compared to Microservices
 * Outlines business considerations for deciding whether Microservices suite your needs
