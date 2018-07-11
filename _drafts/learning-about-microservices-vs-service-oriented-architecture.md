@@ -12,3 +12,9 @@ Great introductory video to the subject of MicroServices:
 #### ★ What are microservices?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PY9xSykods4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### (Free Ebook) Microservices vs. Service-Oriented Architecture 
+
+[https://www.nginx.com/resources/library/microservices-vs-soa/](https://www.nginx.com/resources/library/microservices-vs-soa/ "https://www.nginx.com/resources/library/microservices-vs-soa/")
+
+![](/uploads/2018/07/11/ebk-ORM-MicroservicesSOA-ipad-350x500.png)
