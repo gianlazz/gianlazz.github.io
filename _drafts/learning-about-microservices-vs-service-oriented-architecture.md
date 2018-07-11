@@ -2,7 +2,7 @@
 permalink: "/blog/:title/"
 layout: post
 author: ''
-title: Learning about MicroServices vs Service Oriented Architecture in .NET
+title: Learning about Microservices vs Service Oriented Architecture in .NET
 date: 2018-07-10 00:00:00 +0000
 excerpt: ''
 image: ''
@@ -37,3 +37,5 @@ Great introductory video to the subject of MicroServices:
 * Outlines many use cases where SOA actually still shines compared to Microservices
 * Outlines business considerations for deciding whether Microservices suite your needs
 * micro services own their own data and the entire architecture results in a BASE persistence as apposed to ACID compliant shared monolithic database across the entire SOA
+
+#### Arguments against Microservices
