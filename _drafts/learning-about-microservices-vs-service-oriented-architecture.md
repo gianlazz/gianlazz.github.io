@@ -39,3 +39,9 @@ Great introductory video to the subject of MicroServices:
 * micro services own their own data and the entire architecture results in a BASE persistence as apposed to ACID compliant shared monolithic database across the entire SOA
 
 #### Arguments against Microservices
+
+[https://news.ycombinator.com/item?id=17499137](https://news.ycombinator.com/item?id=17499137 "https://news.ycombinator.com/item?id=17499137")
+
+[https://segment.com/blog/goodbye-microservices/](https://segment.com/blog/goodbye-microservices/ "https://segment.com/blog/goodbye-microservices/")
+
+[https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/](https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/ "https://www.reddit.com/r/programming/comments/8xrek7/goodbye_microservices_from_100s_of_problem/")
