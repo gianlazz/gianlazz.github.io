@@ -17,6 +17,8 @@ Great introductory video to the subject of MicroServices:
 
 [https://www.youtube.com/watch?v=2ooo-igyTrs](https://www.youtube.com/watch?v=2ooo-igyTrs "https://www.youtube.com/watch?v=2ooo-igyTrs")
 
+[https://www.microsoft.com/net/learn/architecture](https://www.microsoft.com/net/learn/architecture "https://www.microsoft.com/net/learn/architecture")
+
 .NET Microservices: Architecture for Containerized .NET Applications \~300 Pages
 
 [https://aka.ms/microservicesarchitecture/](https://aka.ms/microservicesarchitecture/ "https://aka.ms/microservicesarchitecture/")
