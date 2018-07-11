@@ -19,9 +19,13 @@ Great introductory video to the subject of MicroServices:
 
 [https://aka.ms/microservicesebook/](https://aka.ms/microservicesebook/ "https://aka.ms/microservicesebook/")
 
+![](/uploads/2018/07/11/Screen Shot 2018-07-10 at 5.29.28 PM.png)
+
 #### (Free Ebook) Microservices vs. Service-Oriented Architecture \~50 Pages
 
 [https://www.nginx.com/resources/library/microservices-vs-soa/](https://www.nginx.com/resources/library/microservices-vs-soa/ "https://www.nginx.com/resources/library/microservices-vs-soa/")
+
+![](/uploads/2018/07/11/Screen Shot 2018-07-10 at 5.29.49 PM.png)
 
 * Historical overview of SOA
 * Outlines many use cases where SOA actually still shines compared to Microservices
