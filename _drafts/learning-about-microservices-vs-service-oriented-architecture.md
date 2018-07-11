@@ -52,4 +52,6 @@ Great introductory video to the subject of MicroServices:
 
 > Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
 
-[https://en.wikipedia.org/wiki/Conway%27s_law](https://en.wikipedia.org/wiki/Conway%27s_law "https://en.wikipedia.org/wiki/Conway%27s_law") " -redditor
+[https://en.wikipedia.org/wiki/Conway%27s_law](https://en.wikipedia.org/wiki/Conway%27s_law "https://en.wikipedia.org/wiki/Conway%27s_law") " 
+
+"Design patterns and microservices while technical are not based off of science. They are ideas without quantitiative basis or science."
