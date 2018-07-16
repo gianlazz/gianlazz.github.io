@@ -23,11 +23,12 @@ Some examples of the exciting external hardware peripherals that I want to devel
 
 ##### Glossary:
 
-* Container
-* VM:
+* Container: A container is an sandboxed development environment that shares the host kernel and can ease the consistency between various development environments and deployment as everything needed to run will be kept in the container. Changes can also easily be tracked in git allowing for software best practices(DevOps)
+* VM: A virtualized instance of an entire computer and it's operating system. This is also a way of managing predictable deployment and development environments however it insures much more computational overhead to run and can be slow to boot up.
 * LXC: LinuX Containers (LXC) is an operating system-level virtualization method for running multiple isolated Linux systems (containers) on a single control host (LXC host)
 * Docker: Is a container based LXC focused on application delivery however is poorly suited for interfacing with hardware as that is sandboxed out of the containers it is a fantastic solution for application delivery and interfacing via the network like a REST Api server
-* LXD
+* LXD: 
+* Monoliths: Typically composed of N-Tier, Service Oriented architecture where everything must be redeployed to make a change to any part of the code
 * Microservices
 
 ##### Resources:
