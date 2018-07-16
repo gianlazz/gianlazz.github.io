@@ -34,6 +34,6 @@ Alternative wireless protocol devices for IOT
 
 [https://unix.stackexchange.com/questions/254956/what-is-the-difference-between-docker-lxd-and-lxc](https://unix.stackexchange.com/questions/254956/what-is-the-difference-between-docker-lxd-and-lxc "https://unix.stackexchange.com/questions/254956/what-is-the-difference-between-docker-lxd-and-lxc")
 
-##### LXC/LXD Deep Dive
+LXC/LXD Deep Dive : [https://www.youtube.com/watch?v=GYppOyCbM68](https://www.youtube.com/watch?v=GYppOyCbM68 "https://www.youtube.com/watch?v=GYppOyCbM68")
 
-[https://www.youtube.com/watch?v=GYppOyCbM68](https://www.youtube.com/watch?v=GYppOyCbM68 "https://www.youtube.com/watch?v=GYppOyCbM68")
+Introducing the Intel Movidius Neural Compute Stick : [https://www.youtube.com/watch?v=sRYs0dZLXkw](https://www.youtube.com/watch?v=sRYs0dZLXkw "https://www.youtube.com/watch?v=sRYs0dZLXkw")
