@@ -28,8 +28,8 @@ Some examples of the exciting external hardware peripherals that I want to devel
 * LXC: LinuX Containers (LXC) is an operating system-level virtualization method for running multiple isolated Linux systems (containers) on a single control host (LXC host)
 * Docker: Is a container based LXC focused on application delivery however is poorly suited for interfacing with hardware as that is sandboxed out of the containers it is a fantastic solution for application delivery and interfacing via the network like a REST Api server
 * LXD: 
-* Monoliths: Typically composed of N-Tier, Service Oriented architecture where everything must be redeployed to make a change to any part of the code
-* Microservices
+* Monoliths: Typically composed of N-Tier, Service Oriented architecture where everything must be redeployed to make a change to any part of the code. These model has advantages however it can make scaling difficult and isn't well suited for distributed computing clusters.
+* Microservices: 
 
 ##### Resources:
 
