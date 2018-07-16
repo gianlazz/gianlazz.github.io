@@ -11,3 +11,12 @@ image: "/uploads/2018/07/16/419.png"
 ### Premise:
 
 ##### Glossary:
+
+* Container
+* VM
+* Docker
+* LXD
+* LXC
+* Microservices
+
+##### Resources:
