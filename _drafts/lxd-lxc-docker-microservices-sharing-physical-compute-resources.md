@@ -23,10 +23,10 @@ Alternative wireless protocol devices for IOT
 ##### Glossary:
 
 * Container
-* VM
-* Docker
+* VM: 
+* LXC: LinuX Containers (LXC) is an operating system-level virtualization method for running multiple isolated Linux systems (containers) on a single control host (LXC host)
+* Docker: Is a container based LXC focused on application delivery however is poorly suited for interfacing with hardware as that is sandboxed out of the containers it is a fantastic solution for application delivery and interfacing via the network like a REST Api server
 * LXD
-* LXC
 * Microservices
 
 ##### Resources:
