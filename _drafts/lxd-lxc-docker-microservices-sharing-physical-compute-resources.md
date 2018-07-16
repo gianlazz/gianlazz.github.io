@@ -2,8 +2,8 @@
 permalink: "/blog/:title/"
 layout: post
 author: ''
-title: 'LXD/LXC, Docker & Microservices: Sharing External Physical Compute & Networking
-  Peripherals'
+title: LXD/LXC, Docker, Microservices & Sharing External Physical Compute & Networking
+  Peripherals
 date: 2018-07-15 00:00:00 +0000
 excerpt: Looking for a solution to share usb peripherals with containerized microservices
 image: "/uploads/2018/07/16/419.png"
