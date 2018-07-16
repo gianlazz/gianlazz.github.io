@@ -15,7 +15,9 @@ While setting up my own Raspberry Pi cluster that I'm orchestrating with Docker 
 
 Some examples of the exciting external hardware peripherals that I want to develop with are:
 
-Movidius Compute Stick Deep Learning ASIC
+Intel Movidius Neural Compute Stick:
+
+The NCS is an application specific integrated circuit(ASIC) 
 
 ![](/uploads/2018/07/16/5a058ff088603f150a87aa37-640x640.jpg)
 
