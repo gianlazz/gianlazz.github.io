@@ -16,7 +16,7 @@ Some examples of the exciting external hardware peripherals that I want to devel
 
 Movidius Compute Stick Deep Learning ASIC
 
-Software Defined Radio
+\(SDL) Software Defined Radio
 
 Alternative wireless protocol devices for IOT
 

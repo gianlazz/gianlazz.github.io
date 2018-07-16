@@ -39,8 +39,8 @@ fields:
   hidden: false
   default: 
 pages:
-- _posts/lxd-lxc-docker-microservices-sharing-physical-compute-resources.md
 - _posts/exposing-q-quantum-computing-as-a-subject.md
+- _posts/lxd-lxc-docker-microservices-sharing-physical-compute-resources.md
 - _posts/2018-06-27-lazztech-personal-on-prem-cloud.md
 - _posts/2018-06-29-infrastructure-as-code-configuration-management.md
 - _posts/raspberry-pi-usb-webcam-ip-camera-server.md
