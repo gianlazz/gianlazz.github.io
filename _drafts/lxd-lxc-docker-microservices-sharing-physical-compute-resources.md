@@ -17,7 +17,7 @@ Some examples of the exciting external hardware peripherals that I want to devel
 
 Intel Movidius Neural Compute Stick:
 
-The NCS is an application specific integrated circuit(ASIC) 
+The NCS is an application specific integrated circuit(ASIC) capable of running Caffe convolutional neural network(CNN) models with performance comparable to a graphics card however it only consumes 1 watt of power. As Intel states, the Movidius NCS is “the world’s first self-contained AI accelerator in a USB format,” This is part of an industry push to move more computing to the "edge" [https://www.ge.com/digital/blog/what-edge-computing](https://www.ge.com/digital/blog/what-edge-computing "https://www.ge.com/digital/blog/what-edge-computing")
 
 ![](/uploads/2018/07/16/5a058ff088603f150a87aa37-640x640.jpg)
 
