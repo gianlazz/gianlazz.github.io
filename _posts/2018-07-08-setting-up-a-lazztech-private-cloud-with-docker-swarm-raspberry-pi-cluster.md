@@ -5,7 +5,8 @@ author: ''
 title: Setting Up A Lazztech Private Cloud With Docker Swarm Raspberry Pi Cluster
 date: 2018-07-08 00:00:00 +0000
 excerpt: An introduction into maintaining and provisioning a distributed server cluster
-image: "/uploads/2018/07/09/picocluster3s.jpg"
+image: "/uploads/2018/07/18/36498620_2016258842021803_3678605842250203136_n.jpg"
+
 ---
 Objective ELI5: I want to run and control my code from anywhere and learn how to set it up myself.
 
