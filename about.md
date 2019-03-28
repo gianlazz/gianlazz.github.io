@@ -21,7 +21,7 @@ He plays the piano and his favorite kind of music is minimalist classical piano 
 
 He’s a self-motivator who enjoys the challenge of “breaking down huge problems into small elements, whether through technology or interpersonally.” He loves people and working with others. He has a “moderate preference towards extroversion” though enjoys the outdoors and physical activity to get away and develop his perspective.
 
-### Content is Imortant
+### Content is Important
 
 <div class="box">
 <p>
