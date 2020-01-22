@@ -49,6 +49,7 @@ pages:
 - _posts/2018-07-01-introductory-electronics-workshop-w-led-tea-light-candle-kit.md
 - _posts/2018-07-08-setting-up-a-lazztech-private-cloud-with-docker-swarm-raspberry-pi-cluster.md
 - _posts/2018-07-15-lxd-lxc-docker-microservices-sharing-physical-compute-resources.md
+- _posts/chrome-style-dev-tools-on-mobile-with-ionic-eruda.md
 - _posts/deploying-private-vpn-server-with-openvpn-and-docker-to-raspberry-pi.md
 - _posts/exposing-q-quantum-computing-as-a-subject.md
 - _posts/learning-about-microservices-vs-service-oriented-architecture.md
