@@ -11,15 +11,18 @@ sitemap:
 ---
 ## Software
 
-### Lazztech Hub
-
-<span class="image left"><img src="{{ "/uploads/2018/03/03/IMG_20180302_200735_212.jpg" | absolute_url }}" alt="" /></span>
+### Lazztech Hub - Coming Soon
 
 <div class="box">
+<span class="image left"><img src="{{ "/images/lazztech_icon.png" | absolute_url }}" alt="" /></span>
+
 <p>
-Content creation has given me a window to introduce less technical people to my interests and hobbys in a short suscinct package. It gives viewers an opportunity to see the roller coaster of challenge and excitment through the process of research, design and building out something new and technical without getting overwhelmed with the minutiae.
+A social app focused on in person gatherings.
 <br>
 <br>
-It's prompted many great conversations and creative thinking sessions with friends, family and peers that may not have happened otherwise.
+Lazztech Hub is a mobile app for small/medium communities to notify each other when a physical space is open to guests or impromptu gatherings. Imagine you've got a group of friends or family that likes to gather for weekly game nights at a location like your home or a public community space. With Lazztech Hub you can create a private "Hub" associated with this physical location. You can, as the owner of this Hub can "Activate" it to notify users that you intend for them to connect. At this point you and the rest of your Hub members will be able to see who, out of the community is physically at that location for the duration of the time that the Hub host has it activated.
+<br>
+<br>
+This is an excellent community building tool for those that like to host and focus on in person interaction, away from the usual online social tools. This also provides a resource for your community members to keep tabs on the activated Hubs that their a member of, empowering them to elect to reach out & join the gather when they see a number of their peers are at the Hub's location.
 </p>
 </div>
