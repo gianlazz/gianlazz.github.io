@@ -11,15 +11,23 @@ sitemap:
 ---
 ## Software
 
-### Lazztech Hub - Coming Soon
-##### A social app focused on in person gatherings
 <div class="box">
-<span class="image left"><img src="{{ "/images/lazztech_icon.png" | absolute_url }}" alt="" /></span>
+<a href="https://hub.lazz.tech/">
+  <span class="image left">
+    <img src="{{ "/images/lazztech_icon.png" | absolute_url }}" alt="" />
+  </span>
+</a>
+
+<h3><a href="https://hub.lazz.tech/">Lazztech Hub - Coming Soon</a></h3>
+<h5>A social app focused on in person gatherings</h5>
 
 <p>
-<a href="https://hub.lazz.tech/">Lazztech Hub<a> is a mobile app for small/medium communities to notify each other when a physical space is open to guests or impromptu gatherings. Imagine you've got a group of friends or family that likes to gather for weekly game nights at a location like your home or a public community space. With Lazztech Hub you can create a private, invite only, "Hub" associated with this physical location. You can as the owner of this Hub can "Activate" it to notify users that you intend for them to connect. At this point you and the rest of your Hub members will be able to see who, out of the community is physically at that location for the duration of the time that the Hub host has it activated.
+Lazztech Hub is a mobile app for small/medium communities to notify each other when a physical space is open to guests or impromptu gatherings. Imagine you've got a group of friends or family that likes to gather for weekly game nights at a location like your home or a public community space. With Lazztech Hub you can create a private, invite only, "Hub" associated with this physical location. You can as the owner of this Hub can "Activate" it to notify users that you intend for them to connect. At this point you and the rest of your Hub members will be able to see who, out of the community is physically at that location for the duration of the time that the Hub host has it activated.
 <br>
 <br>
 This is an excellent community building tool for those that like to host and focus on in person interaction, away from the usual online social tools. This also provides a resource for your community members to keep tabs on the activated Hubs that their a member of, empowering them to elect to reach out & join the gathering when they see a number of their peer Hub members are at the Hub's location.
 </p>
+
+
+<a href="https://hub.lazz.tech/" class="button">See More</a>
 </div>
